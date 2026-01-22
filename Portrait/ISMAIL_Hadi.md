@@ -3,6 +3,8 @@
 ## Nom Complet
 Ismail Hadi
 
+![photo](Selfie_HadiI_Couleur.jpg)
+
 ## Déscription Simple de moi
 Salut, je m'appelle Hadi Ismail. Je suis étudiant au Collège Montmorency dans le programme Techniques d’intégration multimédia
 
