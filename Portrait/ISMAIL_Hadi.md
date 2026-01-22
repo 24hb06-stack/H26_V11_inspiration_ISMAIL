@@ -3,7 +3,7 @@
 ## Nom Complet
 Ismail Hadi
 
-##D éscription Simple de moi
+## Déscription Simple de moi
 Salut, je m'appelle Hadi Ismail. Je suis étudiant au Collège Montmorency dans le programme Techniques d’intégration multimédia
 
 ## Champ d’intérêt en multimédia
