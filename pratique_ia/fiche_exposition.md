@@ -4,6 +4,9 @@
 ## Nom de l'exposition ou de l'événement
  
 Devenir partagé. Pratique de l'IA
+
+![photo](photos/entree_edifice_poster.png)
+#### Image prise : https://galerie.umontreal.ca/
  
 ## Lieu de mise en exposition
  
@@ -12,6 +15,8 @@ Galerie de l'université de Montréal
 ## Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)
  
 Intérieur et temporaire
+
+![photo](photos/affiche_exposition.png)
  
 ## Date de votre visite
  
@@ -20,6 +25,8 @@ Intérieur et temporaire
 ## Titre de l'oeuvre ou du dispositif 
  
 Terre Commune
+
+![photo](photos/vue_ensemble_oeuvre.png)
  
 ## Nom de l'artiste ou de la firme
  
@@ -32,6 +39,8 @@ Production de 2025
 ## Description de l'oeuvre ou du dispositif 
  
 Terre commune explore les zones de contact entre cognition humaine. IA et mondes naturels. Marion Schneider a collecté des images de sols forestiers afin d'entraîner une IA générative à produire des représentations à partir de ces données. Des images nouvelles se déploient en temps réel selon l'activité cérébrale du public, et plus précisément les ondes alpha - associées au sommeil et à la méditation - afin d'influencer les aléas de la génération visuelle. En conviant les personnes à porter attention à notre terre, L'artiste propose de faire l'expérience d'un co-ancrage entre êtres humains, machines et forêts. Le projet sonde ainsi la possibilité d'utiliser l'IA afin de favoriser une coexistence interespèces à la fois apaisée et connectée. En résonance avec les ecologies queer, se distanciant des dualismes nature et technologie ou repos et productivité, l'installation propose une méditation sur nos interdépendances et sur les manières dont la technologie peut devenir un partenaire de soin et d'attention partagée.
+
+![photo](photos/cartel_oeuvre.png)
  
 ## Type d'installation (contemplative, immersive, interactive) 
  
