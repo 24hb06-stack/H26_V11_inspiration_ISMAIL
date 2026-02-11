@@ -66,7 +66,12 @@ L’installation utilise un ordinateur, un casque EEG, des écrans et vidéoproj
  
 ## Éléments nécessaires à la mise en exposition
  
-Pour exposer l’œuvre, il faut un espace intérieur sombre, un ordinateur, un casque EEG, des écrans ou vidéoprojecteurs, des éléments en aluminium et acrylique pour la structure, et un système pour générer et projeter les images en temps réel.
+Pour exposer l’oeuvre, il faut un espace intérieur sombre, un ordinateur, un casque EEG, des écrans ou vidéoprojecteurs, des éléments en aluminium et acrylique pour la structure, et un système pour générer et projeter les images en temps réel.
+
+![photo](photos/casque_eeg.png)
+![photo](photos/ordinateur.png)
+![photo](photos/projecteur.jpg)
+![photo](photos/projecteur_des_ondes_face.png)
  
 ## Expérience vécue
  
@@ -75,7 +80,6 @@ L’expérience m’a beaucoup intéressé, car je veux travailler dans le futur
 ## Ce qui m'a plu, m'a donné des idées
  
 Ce qui m’a plu, c’est que l’œuvre utilise l’IA pour créer une expérience unique pour chaque personne qui utilise la casque.
- 
  
 ## Aspect que je ne souhaite pas de retenir pour vos propres créations ou que je feré autrement
  
