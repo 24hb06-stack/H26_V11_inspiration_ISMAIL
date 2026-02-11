@@ -51,6 +51,8 @@ Installation interactive
 Mise en valeur, mise en contexte et scénographie immersive de l’oeuvre.
  
 Le dispositif multimédia sert à la mise en valeur et à la mise en contexte de l’oeuvre grâce à une scénographie interactive et immersive qui favorise une expérience contemplative.
+
+![photo](photos/croquis_oeuvre.png)
  
 ## Mise en espace 
  
