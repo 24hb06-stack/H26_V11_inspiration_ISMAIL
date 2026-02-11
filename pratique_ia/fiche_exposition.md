@@ -77,7 +77,7 @@ Pour exposer l’oeuvre, il faut un espace intérieur sombre, un ordinateur, un 
  
 L’expérience m’a beaucoup intéressé, car je veux travailler dans le futur avec la VR ou la réalité mixte. En portant le casque, les images changeaient selon nos pensées, ce qui rendait l’interaction différente pour chaque personne, ce qui était fascinant.
 
-![photo](photos/projecteur_des_ondes_back.png)
+![photo](photos/projecteur_des_ondes_dos.png)
  
 ## Ce qui m'a plu, m'a donné des idées
  
