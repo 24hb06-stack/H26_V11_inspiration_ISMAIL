@@ -81,31 +81,31 @@ L’installation est massive et couvre toute la surface de la patinoire de l’E
 
 ## Composantes et techniques
 
-L’installation utilise des ordinateurs haute performance, des systèmes de captation de mouvement et des vidéoprojecteurs laser montés sur des poteaux.
+L’installation utilise des cameras, des lumières, des systèmes de captation de mouvement et des vidéoprojecteurs laser montés sur des poteaux.
 
 ![photo](photos/videoprojection.jpg)
 
->Image prise par Hadi Ismail : 
+>Image prise par Hadi Ismail : Appareil vidéoprojecteurs
 
 ![photo](photos/lumiere_camera_colorer.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : Camera et des lumières
 
 ## Éléments nécessaires à la mise en exposition
 
-Pour exposer l’oeuvre, il faut une patinoire extérieure de 1 500 m², des ordinateurs haute performance, des capteurs de mouvement, des vidéoprojecteurs laser installés sur des poteaux, et un aménagement incluant des bancs et des foyers pour accueillir le public dans un environnement hivernal.
+Pour exposer l’oeuvre, il faut une patinoire extérieure de 1 500 m², des cameras, des lumières, des capteurs de mouvement, des vidéoprojecteurs laser installés sur des poteaux, et un aménagement incluant des bancs et des foyers pour accueillir le public dans un environnement hivernal et finalement des chaises et des feux de camp.
 
 ![photo](photos/patinoire_rambarde.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : La patinoire
 
 ![photo](photos/banc_interieure_patinoire.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : les bancs à l'intérieur de la patinoire
 
 ![photo](photos/chaise_feux_camp_exterieure.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : Les chaises et les feux de camp
 
 ## Expérience vécue
 
