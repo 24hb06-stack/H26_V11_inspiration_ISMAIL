@@ -2,7 +2,7 @@
 
 ![photo](photos/lumino_logo_ma_visite.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : Logo de Lumino
 
 ## Nom de l'exposition
 
@@ -10,7 +10,7 @@ Festival d'hiver Lumino (16e édition)
 
 ![photo](photos/affiche_exposition_festival_lumino.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : Affiche pour l'exposition du festival d'hiver
 
 ## Lieu de mise en exposition
 
@@ -18,7 +18,7 @@ Esplanade Tranquille, Quartier des spectacles, Montréal.
 
 ![photo](photos/devant_entree_edifice_festival_lumino.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : Moi devant l'entrée du festival d'hiver
 
 ## Type d'exposition
 
@@ -36,7 +36,7 @@ Cette exposition a toujours lieu à l'extérieur, mais, bien que la patinoire el
 
 ![photo](photos/vue_ensemble_oeuvre_coffre_jouet_degivre.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : Vue ensemble de l'oeuvre le coffre à jouets dégivré
 
 ## Nom de l'artiste ou de la firme
 
@@ -55,7 +55,7 @@ Ce projet a été terminé à la fin de novembre 2024
 
 ![photo](photos/cartel_festival_lumino.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : Cartel de le coffre à jouets dégivré
 
 ## Type d'installation 
 
@@ -71,13 +71,13 @@ L'installation « Le coffre à jouets dégivré » est une expérience interacti
 
 ![photo](photos/croquis_coffre_jouet_degivre_lumino.png)
 
->Image prise par Hadi Ismail :
+>Image dessinée par Hadi Ismail : Croquis de le coffre à jouets dégivré
 
 L’installation est massive et couvre toute la surface de la patinoire de l’Esplanade Tranquille, soit environ 1 500 m². À l’extérieur de l’arène, on trouve des bancs et des feux de camp autour de la patinoire. À l’intérieur, il y a aussi des bancs au centre ainsi que quatre à huit poteaux de projection de lumière.
 
 ![photo](photos/vues_ensemble_oeuvre.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : Vue ensemble de le coffre à jouets dégivré
 
 ## Composantes et techniques
 
@@ -85,7 +85,7 @@ L’installation utilise des ordinateurs haute performance, des systèmes de cap
 
 ![photo](photos/videoprojection.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : 
 
 ![photo](photos/lumiere_camera_colorer.jpg)
 
