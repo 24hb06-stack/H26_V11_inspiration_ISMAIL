@@ -34,8 +34,8 @@ Ce projet a été terminé à la fin de novembre 2024
 ## Description de l'oeuvre
 
 #### Le coffre à jouet dégivré
-« PATINEZ, JOUEZ, DÉCLENCHEZ Attachez vos patins et sautez sur une surface glacée qui se transforme en portail vers vos jeux d'enfance. Faites l'expérience interactive de trois mondes suniques: l'Autoroute Zéro-Gravité, une piste flottante aux éléments planants, le Monde Néon, dont les formes et couleurs évoquent l'esthétique des machines à boules et Le sol est en lave!, un univers volcanique et tropical. Chacun de ces tableaux, d'une durée de trente minutes, vous réserve des surprises. Selon vos déplacements sur la glace, vous pourriez même provoquer un dénouement inattendu! »
-##### - Description du Cartel du coffre à jouet dégivré
+"PATINEZ, JOUEZ, DÉCLENCHEZ Attachez vos patins et sautez sur une surface glacée qui se transforme en portail vers vos jeux d'enfance. Faites l'expérience interactive de trois mondes suniques: l'Autoroute Zéro-Gravité, une piste flottante aux éléments planants, le Monde Néon, dont les formes et couleurs évoquent l'esthétique des machines à boules et Le sol est en lave!, un univers volcanique et tropical. Chacun de ces tableaux, d'une durée de trente minutes, vous réserve des surprises. Selon vos déplacements sur la glace, vous pourriez même provoquer un dénouement inattendu!"
+##### - SOURCE : Cartel du coffre à jouet dégivré
 
 ## Type d'installation 
 
