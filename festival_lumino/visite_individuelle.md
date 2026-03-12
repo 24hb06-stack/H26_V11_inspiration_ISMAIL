@@ -1,12 +1,18 @@
 # Festival Lumino
 
+![photo](photos/lumino_logo_ma_visite.jpg)
+
 ## Nom de l'exposition
 
 Festival d'hiver Lumino (16e édition)
 
+![photo](photos/affiche_exposition_festival_lumino.jpg)
+
 ## Lieu de mise en exposition
 
 Esplanade Tranquille, Quartier des spectacles, Montréal.
+
+![photo](photos/devant_entree_edifice_festival_lumino.jpg)
 
 ## Type d'exposition
 
@@ -21,6 +27,8 @@ Cette exposition a toujours lieu à l'extérieur, mais, bien que la patinoire el
 ## Titre de l'oeuvre ou du dispositif
 
 ### Le coffre à jouet dégivré
+
+![photo](photos/vue_ensemble_oeuvre_coffre_jouet_degivre.jpg)
 
 ## Nom de l'artiste ou de la firme
 
@@ -37,6 +45,8 @@ Ce projet a été terminé à la fin de novembre 2024
 "PATINEZ, JOUEZ, DÉCLENCHEZ Attachez vos patins et sautez sur une surface glacée qui se transforme en portail vers vos jeux d'enfance. Faites l'expérience interactive de trois mondes suniques: l'Autoroute Zéro-Gravité, une piste flottante aux éléments planants, le Monde Néon, dont les formes et couleurs évoquent l'esthétique des machines à boules et Le sol est en lave!, un univers volcanique et tropical. Chacun de ces tableaux, d'une durée de trente minutes, vous réserve des surprises. Selon vos déplacements sur la glace, vous pourriez même provoquer un dénouement inattendu!"
 ##### - SOURCE : Cartel du coffre à jouet dégivré
 
+![photo](photos/cartel_festival_lumino.jpg)
+
 ## Type d'installation 
 
 L'installation « Le coffre à jouets dégivré » est une expérience interactive à grande échelle.
@@ -49,15 +59,29 @@ L'installation « Le coffre à jouets dégivré » est une expérience interacti
 
 ## Mise en espace
 
+![photo](photos/croquis_coffre_jouet_degivre_lumino.png)
+
 L’installation est massive et couvre toute la surface de la patinoire de l’Esplanade Tranquille, soit environ 1 500 m². À l’extérieur de l’arène, on trouve des bancs et des feux de camp autour de la patinoire. À l’intérieur, il y a aussi des bancs au centre ainsi que quatre à huit poteaux de projection de lumière.
+
+![photo](photos/vues_ensemble_oeuvre.jpg)
 
 ## Composantes et techniques
 
 L’installation utilise des ordinateurs haute performance, des systèmes de captation de mouvement et des vidéoprojecteurs laser montés sur des poteaux.
 
+![photo](photos/videoprojection.jpg)
+
+![photo](photos/lumiere_camera_colorer.jpg)
+
 ## Éléments nécessaires à la mise en exposition
 
 Pour exposer l’oeuvre, il faut une patinoire extérieure de 1 500 m², des ordinateurs haute performance, des capteurs de mouvement, des vidéoprojecteurs laser installés sur des poteaux, et un aménagement incluant des bancs et des foyers pour accueillir le public dans un environnement hivernal.
+
+![photo](photos/patinoire_rambarde.jpg)
+
+![photo](photos/banc_interieure_patinoire.jpg)
+
+![photo](photos/chaise_feux_camp_exterieure.jpg)
 
 ## Expérience vécue
 
@@ -86,6 +110,8 @@ Production : Partenariat du Quartier des spectacles de Montréal
 Lieu : Esplanade Tranquille, Montréal
 
 Année : 2025-2026 (réalisation 2024)
+
+![photo](photos/interaction_exploration_festival_lumino.jpg)
 
 
 
