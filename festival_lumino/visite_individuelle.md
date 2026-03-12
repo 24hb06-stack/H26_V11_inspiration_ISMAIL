@@ -137,11 +137,11 @@ Année : 2025-2026 (réalisation 2024)
 
 ![photo](photos/interaction_exploration_festival_lumino.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : Exploration du festival d'hiver par Lumino
 
 ![photo](photos/capture_festival_lumino.jpg)
 
->Image prise par Hadi Ismail :
+>Image prise par Hadi Ismail : 
 
 
 
