@@ -113,6 +113,7 @@ Année : 2025-2026 (réalisation 2024)
 
 ![photo](photos/interaction_exploration_festival_lumino.jpg)
 
+![photo](photos/capture_festival_lumino.jpg)
 
 
 
