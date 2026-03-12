@@ -2,17 +2,23 @@
 
 ![photo](photos/lumino_logo_ma_visite.jpg)
 
+
+
 ## Nom de l'exposition
 
 Festival d'hiver Lumino (16e édition)
 
 ![photo](photos/affiche_exposition_festival_lumino.jpg)
 
+
+
 ## Lieu de mise en exposition
 
 Esplanade Tranquille, Quartier des spectacles, Montréal.
 
 ![photo](photos/devant_entree_edifice_festival_lumino.jpg)
+
+
 
 ## Type d'exposition
 
@@ -29,6 +35,8 @@ Cette exposition a toujours lieu à l'extérieur, mais, bien que la patinoire el
 ### Le coffre à jouet dégivré
 
 ![photo](photos/vue_ensemble_oeuvre_coffre_jouet_degivre.jpg)
+
+
 
 ## Nom de l'artiste ou de la firme
 
@@ -47,6 +55,8 @@ Ce projet a été terminé à la fin de novembre 2024
 
 ![photo](photos/cartel_festival_lumino.jpg)
 
+
+
 ## Type d'installation 
 
 L'installation « Le coffre à jouets dégivré » est une expérience interactive à grande échelle.
@@ -61,9 +71,13 @@ L'installation « Le coffre à jouets dégivré » est une expérience interacti
 
 ![photo](photos/croquis_coffre_jouet_degivre_lumino.png)
 
+
+
 L’installation est massive et couvre toute la surface de la patinoire de l’Esplanade Tranquille, soit environ 1 500 m². À l’extérieur de l’arène, on trouve des bancs et des feux de camp autour de la patinoire. À l’intérieur, il y a aussi des bancs au centre ainsi que quatre à huit poteaux de projection de lumière.
 
 ![photo](photos/vues_ensemble_oeuvre.jpg)
+
+
 
 ## Composantes et techniques
 
@@ -71,7 +85,11 @@ L’installation utilise des ordinateurs haute performance, des systèmes de cap
 
 ![photo](photos/videoprojection.jpg)
 
+
+
 ![photo](photos/lumiere_camera_colorer.jpg)
+
+
 
 ## Éléments nécessaires à la mise en exposition
 
@@ -79,9 +97,15 @@ Pour exposer l’oeuvre, il faut une patinoire extérieure de 1 500 m², des ord
 
 ![photo](photos/patinoire_rambarde.jpg)
 
+
+
 ![photo](photos/banc_interieure_patinoire.jpg)
 
+
+
 ![photo](photos/chaise_feux_camp_exterieure.jpg)
+
+
 
 ## Expérience vécue
 
@@ -113,7 +137,11 @@ Année : 2025-2026 (réalisation 2024)
 
 ![photo](photos/interaction_exploration_festival_lumino.jpg)
 
+
+
 ![photo](photos/capture_festival_lumino.jpg)
+
+
 
 
 
