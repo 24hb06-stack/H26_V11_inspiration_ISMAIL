@@ -141,7 +141,7 @@ Année : 2025-2026 (réalisation 2024)
 
 ![photo](photos/capture_festival_lumino.jpg)
 
->Image prise par Hadi Ismail : 
+>Image prise par Hadi Ismail : Le parc d'attractions aménagé par Lumino
 
 
 
