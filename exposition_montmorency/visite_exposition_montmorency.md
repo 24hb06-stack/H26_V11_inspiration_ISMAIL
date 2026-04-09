@@ -23,8 +23,8 @@ Deuxième visite : 17 mars 2026
 
 ## Nom de l'artiste ou de la firme
 
-### Le projet Terminal a été réalisé par cinq étudiants finissants du Collège Montmorency, du programme Techniques d’intégration multimédia, en 2026.
-#### Émeryk Bélisle - Elie Daher - Ting Yung Lu Terry - Dana Saavedra-Torrano - Mégane Ranger
+#### Le projet Terminal a été réalisé par cinq étudiants finissants du Collège Montmorency, du programme Techniques d’intégration multimédia, en 2026.
+##### Émeryk Bélisle - Elie Daher - Ting Yung Lu Terry - Dana Saavedra-Torrano - Mégane Ranger
 
 ## Année de réalisation
 
@@ -36,7 +36,8 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 
 ## Type d'installation 
 
-
+#### Installation interactive
+Le type d’installation est interactive. Les spectateurs doivent se connecter avec leur téléphone, scanner un code QR et contrôler leur personnage afin de réussir l’objectif du jeu.
 
 ## Fonction du dispositif multimédia
 
