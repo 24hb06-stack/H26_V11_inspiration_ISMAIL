@@ -6,15 +6,24 @@ RÉSEAU VIVANT
 
 ## Lieu de mise en exposition
 
-Le collège Montmorency (Le grand studio) Local C1712
+Le collège Montmorency (Le grand studio) Local C1712)
 
 ## Type d'exposition
 
+Ce type d'exposition se fait à l'intérieur et est temporaire.
+
 ## Date de visite
+
+Première visite : 24 février 2026
+Deuxième visite : 17 mars 2026 
 
 ## Titre de l'oeuvre ou du dispositif
 
+### TERMINAL
+
 ## Nom de l'artiste ou de la firme
+
+
 
 ## Année de réalisation
 
