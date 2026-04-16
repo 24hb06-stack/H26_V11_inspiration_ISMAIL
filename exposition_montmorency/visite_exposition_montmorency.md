@@ -65,11 +65,11 @@ Le type d’installation est interactive. Les spectateurs doivent se connecter a
 
 ## Expérience vécue
 
-#### J’ai trouvé cette création très impressionnante. Comme je souhaite travailler dans la production de jeux vidéo, cette expérience m’a beaucoup marqué et m’a fait encore plus respecter les personnes qui investissent du temps et des efforts dans leurs projets.
+##### J’ai trouvé cette création très impressionnante. Comme je souhaite travailler dans la production de jeux vidéo, cette expérience m’a beaucoup marqué et m’a fait encore plus respecter les personnes qui investissent du temps et des efforts dans leurs projets.
 
 ## Ce qui m'a plu, m'a donné des idées
 
-#### Ce qui m’a le plus plu dans ce projet, c’est la création du jeu et les étapes pour y arriver. Comme je veux faire un jeu vidéo plus tard, ça m’a donné des idées et m’a aidé à comprendre ce que des étudiants plus avancés ont dû faire.
+#####Ce qui m’a le plus plu dans ce projet, c’est la création du jeu et les étapes pour y arriver. Comme je veux faire un jeu vidéo plus tard, ça m’a donné des idées et m’a aidé à comprendre ce que des étudiants plus avancés ont dû faire.
 
 ## Aspect que je ne souhaite pas de retenir pour vos propres créations ou que je feré autrement
 
