@@ -2,7 +2,7 @@
 
 ## Nom de l'exposition
 
-RÉSEAU VIVANT
+#### RÉSEAU VIVANT
 
 ## Lieu de mise en exposition
 
@@ -14,8 +14,8 @@ Ce type d'exposition se fait à l'intérieur et est temporaire.
 
 ## Date de visite
 
-Première visite : 24 février 2026
-Deuxième visite : 17 mars 2026 
+Première visite : 24 février 2026 (projet en cours - Demo)
+Deuxième visite : 17 mars 2026 (projet terminé - Résultat Final)
 
 ## Titre de l'oeuvre ou du dispositif
 
@@ -40,6 +40,22 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 Le type d’installation est interactive. Les spectateurs doivent se connecter avec leur téléphone, scanner un code QR et contrôler leur personnage afin de réussir l’objectif du jeu.
 
 ## Fonction du dispositif multimédia
+
+#### Bien que ce soit un projet réalisé par des étudiants en Techniques d’intégration multimédia, le projet Terminal comporte plusieurs dispositifs multimédias.
+##### Du coding (C# - Unity)
+-Permet de programmer le fonctionnement du projet et les interactions.
+##### L'Audio (Reaper)
+-Sert à créer et modifier les sons et la musique (Mission accomplit, Meurt, etc).
+##### L'interactivité
+-Permet à l’utilisateur de contrôler et influencer ce qui se passe.
+##### Illustation Numérique
+-Sert à créer les personnages, la scène, etc.
+##### Modélisation
+-Permet de créer à quoi ressemblera la scène pour les utilisateurs.
+##### Animation 2D
+-Sert à donner du mouvement aux éléments visuels en 2D.
+##### Jeu Vidéo
+-Regroupe tous ces éléments pour créer une expérience interactive complète.
 
 ## Mise en espace
 
