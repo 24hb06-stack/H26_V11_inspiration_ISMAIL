@@ -9,10 +9,10 @@
 
 #### Header
 
-.header
-.header__title
-.header__subtitle
-.header__button
+- .header
+- .header__title
+- .header__subtitle
+- .header__button
 
 #### Menu
 
