@@ -16,40 +16,40 @@
 
 #### Menu
 
-.menu
-.menu__icon
-.menu__title
-.menu__subtitle
-.menu__button
-.menu__button--hover
-.menu__button__icon
+.menu <br>
+.menu__icon <br>
+.menu__title <br>
+.menu__subtitle <br>
+.menu__button <br>
+.menu__button--hover <br>
+.menu__button__icon <br>
 
 #### Progress Card
 
-.progress-card
-.progress-card__icon
-.progress-card__subtitle
-.progress-card__title
-.progress-card__percentage
-.progress-card__progress-line
-.progress-card__quote
+.progress-card <br>
+.progress-card__icon <br>
+.progress-card__subtitle <br>
+.progress-card__title <br>
+.progress-card__percentage <br>
+.progress-card__progress-line <br>
+.progress-card__quote <br>
 
 #### Quest Card
 
-.quest-card
-.quest-card__button
-.quest-card__status--hover
-.quest-card__title
-.quest-card__text
-.quest-card__xp__progress
-.title__quest-card
-.subtitle__quest-card
+.quest-card <br>
+.quest-card__button <br>
+.quest-card__status--hover <br>
+.quest-card__title <br>
+.quest-card__text <br>
+.quest-card__xp__progress <br>
+.title__quest-card <br>
+.subtitle__quest-card <br>
 
 ## Découpage
-D'abord, je vais coder les différentes parties de la page web en respectant ma nomenclatue. En même temps, je vais noter mes difficultés sur le journal. Ensuite, je vais coder le CSS sans pensée au responsive. Le CSS sera mobile-first. Finalement, je vais rendre le code responsive.
+Je vais d'abord coder les différentes sections de la page en respectant ma structure de nommage, tout en notant mes blocages au fur et à mesure. Je passerai ensuite au CSS avec une stratégie de (mobile-first). Une fois la base établie, je m’attaquerai aux ajustements pour rendre le site entièrement responsive.
 
 ## Responsive
-Le menu va passer de la gauche à en bas de la page. L'en-tête va passer de un titre, un sous-titre et deux bouttons à un icon, un titre, et un bouton. La carte de la progrssion va passer de horizontale à la verticale. Finalement, les carte des quêtes vont passer de l'horizontale à la verticale.
+La structure évoluera de la manière suivante : le menu passera de la gauche au bas de l’écran. L’en-tête sera simplifié pour ne garder qu'une icône, un titre et un bouton. Enfin, les cartes de progression et les cartes de quêtes passeront d'un affichage horizontal à un affichage vertical. 
 
 ## Zone libre
-Pour la zone libre, je vais faire quatres cartes plus petites qui vont être reparties sur deux lignes. Il y aura simplement un titre avec le nom de la catégorie et un texte qui dit la réponse.
+Pour la zone libre, je vais mettre quatre petites cartes réparties sur deux lignes. Chaque carte affichera simplement le nom de la catégorie en titre, suivi de la réponse en texte.
