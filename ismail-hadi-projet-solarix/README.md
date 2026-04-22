@@ -1,1 +1,2 @@
-Ce fichier read me contient mon projet Solarix.
+Ce fichier Read Me contient mon projet Solarix
+Pour mon cours WEB 2
