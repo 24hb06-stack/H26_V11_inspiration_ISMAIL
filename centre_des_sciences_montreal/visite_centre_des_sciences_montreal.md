@@ -1,4 +1,4 @@
-# Exposition centre_des_sciences_montreal
+# Exposition Centre des Sciences Montreal
 
 ## Nom de l'exposition
 
