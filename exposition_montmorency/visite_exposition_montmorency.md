@@ -69,7 +69,7 @@ Le type d’installation est interactive. Les spectateurs doivent se connecter a
 
 ## Ce qui m'a plu, m'a donné des idées
 
-#####Ce qui m’a le plus plu dans ce projet, c’est la création du jeu et les étapes pour y arriver. Comme je veux faire un jeu vidéo plus tard, ça m’a donné des idées et m’a aidé à comprendre ce que des étudiants plus avancés ont dû faire.
+Ce qui m’a le plus plu dans ce projet, c’est la création du jeu et les étapes pour y arriver. Comme je veux faire un jeu vidéo plus tard, ça m’a donné des idées et m’a aidé à comprendre ce que des étudiants plus avancés ont dû faire.
 
 ## Aspect que je ne souhaite pas de retenir pour vos propres créations ou que je feré autrement
 
