@@ -1,16 +1,20 @@
 # Exposition Centre des Sciences Montréal
 
+![photo](visite_centre_science_photo/Centre_sciences_logo.png)
+
 ## Nom de l'exposition
 
 #### Visite au Centre des sciences Montréal
 
 Expédition Nordique - Northern Expidition - (NANUALUK - ᓇᓄᐊᓗᒃ) 
 
-![photo](visite_centre_science_photo/Affiche_exposition_temporaire)
+![photo](visite_centre_science_photo/Affiche_exposition_temporaire.jpg)
 
 ## Lieu de mise en exposition
 
 #### Centre des sciences de Montréal, Vieux-Port de Montréal
+
+![photo](visite_centre_science_photo/Affiche_exposition.jpg)
 
 ## Type d'exposition
 
@@ -36,7 +40,9 @@ L'exposition Nanualuk – Expédition nordique a été inaugurée au Centre des 
 
 ## Description de l'oeuvre
 
-Cette œuvre est simple. Vous devez retourner au village où vous habitez, mais pour cela vous devez traverser un lac recouvert de glace. Soyez très prudent, car la glace fond au printemps. Pour vérifier si la glace est assez solide pour marcher dessus, on utilise une unaaq, une lance, pour taper sur la glace avant de traverser.
+Cette oeuvre est simple. Vous devez retourner au village où vous habitez, mais pour cela vous devez traverser un lac recouvert de glace. Soyez très prudent, car la glace fond au printemps. Pour vérifier si la glace est assez solide pour marcher dessus, on utilise une unaaq, une lance, pour taper sur la glace avant de traverser.
+
+(Le cartel est expliqué par l'homme qui donne essentiellement la description de l'objet utilisé, la raison de son utilisation et comment jouer au jeu, etc.)
 
 ##### Voici où le jeu commence et il y a 3 règles simples :
 
@@ -49,6 +55,8 @@ Cette œuvre est simple. Vous devez retourner au village où vous habitez, mais 
 - Vous avez 3 vies. Lorsque vous êtes prêt à avancer, cliquez sur le petit bouton sur la lance. Si vous voulez aller à gauche ou à droite, orientez la lance dans la direction souhaitée. Si vous voulez tester si la glace est fragile ou non, appuyez vers le bas sur la lance.
 
 ##### Une fois que vous atteignez la fin du lac gelé, vous arrivez au village et vous gagnez la partie. Bonne Chance!
+
+![photo](visite_centre_science_photo/cartel.jpg)
 
 ## Type d'installation 
 
