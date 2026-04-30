@@ -2,6 +2,8 @@
 
 ![photo](visite_centre_science_photo/Centre_sciences_logo.png)
 
+![photo](visite_centre_science_photo/devant_edifice.jpg)
+
 ## Nom de l'exposition
 
 #### Visite au Centre des sciences Montréal
@@ -22,13 +24,19 @@ Expédition Nordique - Northern Expidition - (NANUALUK - ᓇᓄᐊᓗᒃ)
 
 (L'exposition sur laquelle nous nous concentrerons sera l'une des expositions temporaires.)
 
+![photo](visite_centre_science_photo/comment_faire.jpg)
+
 ## Date de visite
 
 Jeudi 2 avril 2026
 
 ## Titre de l'oeuvre ou du dispositif
 
+![photo](visite_centre_science_photo/titre.jpg)
+
 Une glace fragile - On Thin Ice - ᓴᑦᑐᒦᑦᑐᖅ ᓯᑯᒥ
+
+![photo](visite_centre_science_photo/Vue_ensemble.jpg)
 
 ## Nom de l'artiste ou de la firme
 
@@ -39,6 +47,8 @@ La firme de cette exposition est le Centre des sciences de Montréal, en collabo
 L'exposition Nanualuk – Expédition nordique a été inaugurée au Centre des sciences de Montréal le 1er mars 2025.
 
 ## Description de l'oeuvre
+
+![photo](visite_centre_science_photo/vue_ensemble_oeuvre.jpg)
 
 Cette oeuvre est simple. Vous devez retourner au village où vous habitez, mais pour cela vous devez traverser un lac recouvert de glace. Soyez très prudent, car la glace fond au printemps. Pour vérifier si la glace est assez solide pour marcher dessus, on utilise une unaaq, une lance, pour taper sur la glace avant de traverser.
 
@@ -62,7 +72,9 @@ Cette oeuvre est simple. Vous devez retourner au village où vous habitez, mais 
 
 #### Installation interactive
 
-Cette est une installation interactive car elle ne peut pas fonctionner sans ton intervention directe. Le contenu à l'écran réagit en temps réel à tes mouvements physiques et à tes choix quand tu manipule l'unaaq qui sert de manette pour diriger le personnage et tester la solidité du sol.
+![photo](visite_centre_science_photo/interaction_oeuvre.jpg)
+
+Cette oeuvre est une installation interactive car elle ne peut pas fonctionner sans ton intervention directe. Le contenu à l'écran réagit en temps réel à tes mouvements physiques et à tes choix quand tu manipule l'unaaq qui sert de manette pour diriger le personnage et tester la solidité du sol.
 
 ## Fonction du dispositif multimédia
 
@@ -101,6 +113,8 @@ L’espace occupé pour cette œuvre est assez grand. Il se compose de deux sect
 Comment je me suis senti : d’abord, cette expérience m’a rappelé des souvenirs de ma première visite au Centre des sciences de Montréal lors de ma première session. Quand je suis revenu à cette exposition, j’étais un peu surpris et confus, car je ne savais pas que l'oeuvre temporaire changer chaque année. Je pensais qu’elles étaient toutes permanentes, mais je me trompais.
 
 Maintenant, comment je me suis senti sur l’œuvre : c’était une expérience incroyable. Je passais surtout du temps à observer l’œuvre temporaire en me déplaçant entre les différentes sections, et je suis allé revoir certaines anciennes œuvres que j’avais déjà testées. Découvrir des anciens installations a aussi été une très bonne expérience, car sa m'a donner beaucoup de nostalgie.
+
+![photo](visite_centre_science_photo/devant_oeuvre.jpg)
 
 ## Ce qui m'a plu, m'a donné des idées
 
