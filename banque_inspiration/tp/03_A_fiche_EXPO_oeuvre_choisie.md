@@ -1,5 +1,7 @@
 # Exposition des finissants 2026 - Montmorency
 
+![photo](reseau_vivant_photos/devant_entree_edifice_finissant.jpg)
+
 ## Nom de l'exposition
 
 ![photo](reseau_vivant_photos/affiche_exposition_finissant.jpg)
@@ -59,10 +61,14 @@ Deuxième visite : 17 mars 2026 (projet terminé - Résultat Final)
 
 TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque joueur contrôle un opérateur, grâce à la manette sur leur téléphone, qui essaie de trouver l'accès au vieux réseau internet afin de restaurer les données qui ont été corrompues par une cyberattaque orchestrée par un fameux pirate informatique. Lorsque les joueurs vont se déplacer, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L’objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés dans le réseau par le pirate ou par les traces laissées par les autres. En cas d’élimination, tous les joueurs doivent recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant par exemple des boutons qui ouvrent des passages pour les autres, des obstacles mobiles et bien plus encore.
 
+![photo](reseau_vivant_photos/cartel_terminal.jpg)
+
 ## Type d'installation 
 
 #### Installation interactive
 Le type d’installation est interactive. Les spectateurs doivent se connecter avec leur téléphone, scanner un code QR et contrôler leur personnage afin de réussir l’objectif du jeu.
+
+![photo](reseau_vivant_photos/geste_de_moi.jpg)
 
 ## Fonction du dispositif multimédia
 
@@ -90,9 +96,23 @@ L’installation du projet « Terminal » est assez imposante. Elle occupe une a
 
 Le projet Terminal utilise un projecteur, une salle sombre, un mur assez grand pour projeter l’image/le jeu, un podium pour les instructions du jeux et des places pour s’asseoir.
 
+![photo](reseau_vivant_photos/controles.jpg)
+
+![photo](reseau_vivant_photos/ordinateur.jpg)
+
+![photo](reseau_vivant_photos/projecteur_web.jpg)
+
 ## Éléments nécessaires à la mise en exposition
 
 Pour la mise en exposition, il faut des chaises, dans ce cas des beanbags, un ordinateur, des LED, un code QR et le téléphone de l’audience afin d’interagir et jouer au jeu.
+
+![photo](reseau_vivant_photos/Code_QR.jpg)
+
+![photo](reseau_vivant_photos/geste_de_moi.jpg)
+
+![photo](reseau_vivant_photos/lumiere.jpg)
+
+![photo](reseau_vivant_photos/haut-parleurs_suspendus.jpg)
 
 ## Expérience vécue
 
