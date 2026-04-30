@@ -1,8 +1,8 @@
-# Exposition Centre des Sciences Montreal
+# Exposition Centre des Sciences Montréal
 
 ## Nom de l'exposition
 
-#### Visite au Centre des sciences 
+#### Visite au Centre des sciences Montréal
 
 Expédition Nordique - Northern Expidition - (NANUALUK - ᓇᓄᐊᓗᒃ) 
 
@@ -72,12 +72,47 @@ L’espace occupé pour cette œuvre est assez grand. Il se compose de deux sect
 
 ## Composantes et techniques
 
+- Deux écrans : Un petit écran pour les tutoriels et un grand écran principal pour le jeu.
+
+- Contrôleur physique (L'Unaaq) : Une lance traditionnelle équipée d'un bouton et de capteurs de mouvement.
+
+- Un ordinateur : caché dans la boîte en bois pour faire fonctionner le logiciel et gérer les interactions.
+
 ## Éléments nécessaires à la mise en exposition
+
+- Espace physique : Il faut prévoir une zone assez grande pour l'oeuvre
+
+- Un moniteur : Pour le tutoriel et un grand écran immersif pour l'affichage du jeu.
+
+- Système de contrôle : Une lance (contrôleur)
 
 ## Expérience vécue
 
+Comment je me suis senti : d’abord, cette expérience m’a rappelé des souvenirs de ma première visite au Centre des sciences de Montréal lors de ma première session. Quand je suis revenu à cette exposition, j’étais un peu surpris et confus, car je ne savais pas que l'oeuvre temporaire changer chaque année. Je pensais qu’elles étaient toutes permanentes, mais je me trompais.
+
+Maintenant, comment je me suis senti sur l’œuvre : c’était une expérience incroyable. Je passais surtout du temps à observer l’œuvre temporaire en me déplaçant entre les différentes sections, et je suis allé revoir certaines anciennes œuvres que j’avais déjà testées. Découvrir des anciens installations a aussi été une très bonne expérience, car sa m'a donner beaucoup de nostalgie.
+
 ## Ce qui m'a plu, m'a donné des idées
+
+#### Ce qui m'a plu : 
+
+C’est la reconnaissance et la mise en valeur des cultures autochtones. En tant que Canadiens, il est essentiel d’être mieux éduqués sur les premiers peuples de ce continent, leur mode de vie et leurs traditions. L’œuvre utilise l’interaction pour transformer cet apprentissage en une expérience concrète qui permet de mieux comprendre la réalité des autres.
+
+#### Ce qui m'a donné des idées : 
+
+l’aspect interactif m’a donné des idées sur la façon de toucher un public cible. En tant qu'étudiant en multimédia, j'ai réalisé que nous devons apprendre à anticiper différentes perspectives pour mieux servir notre audience. Cette expérience m’a permis de voir comment l'interactivité peut transmettre un message éducatif.
 
 ## Aspect que je ne souhaite pas de retenir pour vos propres créations ou que je feré autrement
 
+L’aspect que je ne retiendrai pas est le trajet pour me rendre à l’exposition, car les directions n’étaient pas très claires. C’était une expérience désagréable à cause de la distance, du froid et du passage par des endroits qui semblaient un peu vague. Mais ces aspects ne peut pas être modifié, alors je ne m'en inquiéterais pas trop.
+
 ## Références
+
+### Toutes les images ont été prises par le créateur de cette page (Hadi Ismail), sauf le logo.
+
+### Toutes les images peuvent être trouvées au Centre des sciences de Montréal.
+
+### L'entreprise responsable : Centre des sciences de Montréal - Vieux-Port de Montréal
+
+### https://www.centredessciencesdemontreal.com/ (Voici le site web de Centre des sciences Montréal)
+
