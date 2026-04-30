@@ -1,1 +1,8 @@
+# MUSÉE DE L'INGÉNIOSITÉ - CONFÉRENCE
 
+Salut, c'est moi, Hadi Ismail. Aujourd'hui, sur Github, je présente mon point de vue sur la conférence qui a eu lieu le 23 avril 2026 dans le cadre du cours d'oeuvres et dispositifs multimédias.
+
+
+Le jeudi 23 avril 2026, de 13 h 30 à 15 h 30, nous avons accueilli Martin Boucher dans le cadre du cours Œuvres et dispositifs multimédias. Monsieur Boucher, technicien multimédia au Musée de l’ingéniosité J. Armand-Bombardier, est venu nous présenter les réalités techniques et créatives derrière les expositions permanentes de l'institution située à Valcourt. L'objectif de sa conférence était de nous dévoiler le processus de conception et de maintenance des installations interactives du musée.
+
+Cette conférence m'a véritablement intrigué, car elle m'a permis d'entendre le parcours et de comprendre la charge de travail d'un professionnel actif dans mon futur domaine. J'ai été particulièrement impressionné par deux aspects : d'abord, son environnement de travail son installation de son bureau, ses trois écrans et son équipement, son bureau C'était comme quelque chose que j'avais toujours désiré. Ensuite, l'ampleur des budgets de 20 000 $ à 30 000 $ mis à sa disposition pour réaliser ses projets avec son coéquipiers m'a impressionné, illustrant les ressources importantes investies pour coordonner une équipe et créer des oeuvres pour la public. Cette rencontre a été extrêmement bénéfique pour mon avenir en multimédia, car elle m'a donné une vision concrète de ce que je peux espérer accomplir et des défis que je pourrai relever si je persévère jusqu'au bout de mes études.
