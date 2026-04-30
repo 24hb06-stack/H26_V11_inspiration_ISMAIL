@@ -74,7 +74,7 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ### Schéma de l'installation prévue
 
-![photo](reseau_vivant_palmares_photo/croquis_symbiose.png)
+![photo](reseau_vivant_palmares_photo/croquis_symbiose.webp)
 
 >Image prise par Hadi Ismail : Croquis du projet Symbiose
 
@@ -98,7 +98,7 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ### Schéma de l'installation prévue
 
-![photo](reseau_vivant_palmares_photo/croquis_mission.png)
+![photo](reseau_vivant_palmares_photo/croquis_ocean_rouge.png)
 
 >Image prise par Hadi Ismail : Croquis du projet Océan Rouge
 
@@ -124,7 +124,7 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ### Schéma de l'installation prévue
 
-![photo](reseau_vivant_palmares_photo/croquis_mission.png)
+![photo](reseau_vivant_palmares_photo/croquis_arbre_en_face.jpg)
 
 >Image prise par Hadi Ismail : Croquis du projet Arbre En Face
 
@@ -150,7 +150,7 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ### Schéma de l'installation prévue
 
-![photo](reseau_vivant_palmares_photo/croquis_mission.png)
+![photo](reseau_vivant_palmares_photo/croquis_quand_les_yeux_se_trouve.jpeg)
 
 >Image prise par Hadi Ismail : Croquis du projet Quand les yeux se croisent
 
