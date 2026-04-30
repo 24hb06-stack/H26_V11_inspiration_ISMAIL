@@ -6,6 +6,8 @@
 
 Expédition Nordique - Northern Expidition - (NANUALUK - ᓇᓄᐊᓗᒃ) 
 
+![photo](photos/Affiche_exposition_temporaire)
+
 ## Lieu de mise en exposition
 
 #### Centre des sciences de Montréal, Vieux-Port de Montréal
