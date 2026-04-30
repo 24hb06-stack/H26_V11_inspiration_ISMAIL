@@ -166,10 +166,14 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ### Une technique ou une composante technologique inconnu à moi :
 
-- La composante technologique : Le langage de programmation C#
-Dans le projet Terminal, les créateurs ont utilisé le langage Python pour coder l'ensemble du jeu.
+- La composante technologique : Le langage de programmation C# et Unity
+
+Dans le projet Terminal, les créateurs ont utilisé le langage C# et Unity pour coder l'ensemble du jeu.
 
 -https://pythons-5.github.io/Terminal/#/technique/?id=logiciels
-Langages et environnements
 
+#### Langages et environnements
 
+![photo](reseau_vivant_palmares_photo/coding.jpeg)
+
+>Image prise par Hadi Ismail : Photo de la technique ou composante
