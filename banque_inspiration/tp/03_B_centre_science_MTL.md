@@ -2,15 +2,27 @@
 
 ## Nom de l'exposition
 
-#### 
+#### Visite au Centre des sciences 
+
+Expédition Nordique - Northern Expidition - (NANUALUK - ᓇᓄᐊᓗᒃ) 
 
 ## Lieu de mise en exposition
 
+#### Centre des sciences de Montréal, Vieux-Port de Montréal
+
 ## Type d'exposition
+
+#### Cette exposition est principalement permanente, mais elle comprend aussi plusieurs expositions temporaires.
+
+(L'exposition sur laquelle nous nous concentrerons sera l'une des expositions temporaires.)
 
 ## Date de visite
 
+Jeudi 2 avril 2026
+
 ## Titre de l'oeuvre ou du dispositif
+
+Une glace fragile - On Thin Ice - ᓴᑦᑐᒦᑦᑐᖅ ᓯᑯᒥ
 
 ## Nom de l'artiste ou de la firme
 
