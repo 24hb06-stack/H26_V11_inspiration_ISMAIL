@@ -17,6 +17,8 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ![photo](reseau_vivant_palmares_photo/instalation_terminal.jpg)
 
+>Photo prise par Hadi Ismail : Instalation du projet Terminal
+
 ### Schéma de l'installation prévue
 
 PUT PHOTO
@@ -40,6 +42,8 @@ PUT PHOTO
 
 ![photo](reseau_vivant_palmares_photo/instalation_mission.jpg)
 
+>Photo prise par Hadi Ismail : Instalation du projet Mission
+
 ### Schéma de l'installation prévue
 
 PUT PHOTO
@@ -62,6 +66,8 @@ PUT PHOTO
 
 ![photo](reseau_vivant_palmares_photo/instalation_symbiose.jpg)
 
+>Photo prise par Hadi Ismail : Instalation du projet Symbiose
+
 ### Schéma de l'installation prévue
 
 PUT PHOTO
@@ -81,6 +87,8 @@ PUT PHOTO
 ### Installation en cours (ou finale)
 
 ![photo](reseau_vivant_palmares_photo/instalation_ocean_rouge.jpg)
+
+>Photo prise par Hadi Ismail : Instalation du projet Océan Rouge
 
 ### Schéma de l'installation prévue
 
@@ -104,6 +112,8 @@ PUT PHOTO
 
 ![photo](reseau_vivant_palmares_photo/instalation_arbre_en_face.jpg)
 
+>Photo prise par Hadi Ismail : Instalation du projet Arbre En Face
+
 ### Schéma de l'installation prévue
 
 PUT PHOTO
@@ -125,6 +135,8 @@ PUT PHOTO
 ### Installation en cours (ou finale)
 
 ![photo](reseau_vivant_palmares_photo/instalation_quand_les_yeux_se_croisent.jpg)
+
+>Photo prise par Hadi Ismail : Instalation du projet Quand les yeux se croisent
 
 ### Schéma de l'installation prévue
 
