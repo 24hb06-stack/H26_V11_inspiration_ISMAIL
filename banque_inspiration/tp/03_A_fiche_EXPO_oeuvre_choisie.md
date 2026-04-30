@@ -100,7 +100,7 @@ Le type d’installation est interactive. Les spectateurs doivent se connecter a
 
 >Image prise par Hadi Ismail : Interaction de moi et de l'oeuvre Terminal
 
-![photo](reseau_vivant_photoscontroles.jpg)
+![photo](reseau_vivant_photos/controles.jpg)
 
 >Image prise par Hadi Ismail : Manette de l'oeuvre Terminal
 
