@@ -2,7 +2,11 @@
 
 ![photo](visite_centre_science_photo/Centre_sciences_logo.png)
 
+>Image prise du site web de Centre des sciences de Montréal
+
 ![photo](visite_centre_science_photo/devant_edifice.jpg)
+
+>Image prise par Hadi Ismail : Devant l'entrée de l'édifice
 
 ## Nom de l'exposition
 
@@ -12,11 +16,15 @@ Expédition Nordique - Northern Expidition - (NANUALUK - ᓇᓄᐊᓗᒃ)
 
 ![photo](visite_centre_science_photo/Affiche_exposition_temporaire.jpg)
 
+>Image prise par Hadi Ismail : Affiche de l'exposition temporaire
+
 ## Lieu de mise en exposition
 
 #### Centre des sciences de Montréal, Vieux-Port de Montréal
 
 ![photo](visite_centre_science_photo/Affiche_exposition.jpg)
+
+>Image prise par Hadi Ismail : Affiche de l'exposition
 
 ## Type d'exposition
 
@@ -26,6 +34,8 @@ Expédition Nordique - Northern Expidition - (NANUALUK - ᓇᓄᐊᓗᒃ)
 
 ![photo](visite_centre_science_photo/comment_faire.jpg)
 
+>Image prise par Hadi Ismail : Comment jouer
+
 ## Date de visite
 
 Jeudi 2 avril 2026
@@ -34,9 +44,13 @@ Jeudi 2 avril 2026
 
 ![photo](visite_centre_science_photo/titre.jpg)
 
+>Image prise par Hadi Ismail : Titre de l'oeuvre choisi
+
 Une glace fragile - On Thin Ice - ᓴᑦᑐᒦᑦᑐᖅ ᓯᑯᒥ
 
 ![photo](visite_centre_science_photo/Vue_ensemble.jpg)
+
+>Image prise par Hadi Ismail : Vue ensemble de l'oeuvre
 
 ## Nom de l'artiste ou de la firme
 
@@ -48,9 +62,13 @@ L'exposition Nanualuk – Expédition nordique a été inaugurée au Centre des 
 
 ![photo](visite_centre_science_photo/croquis_centre_science.png)
 
+>image dessinée par Hadi Ismail : Croquis de mon oeuvre chosi
+
 ## Description de l'oeuvre
 
 ![photo](visite_centre_science_photo/vue_ensemble_oeuvre.jpg)
+
+>Image prise par Hadi Ismail : Vue ensemble de l'oeuvre
 
 Cette oeuvre est simple. Vous devez retourner au village où vous habitez, mais pour cela vous devez traverser un lac recouvert de glace. Soyez très prudent, car la glace fond au printemps. Pour vérifier si la glace est assez solide pour marcher dessus, on utilise une unaaq, une lance, pour taper sur la glace avant de traverser.
 
@@ -70,11 +88,15 @@ Cette oeuvre est simple. Vous devez retourner au village où vous habitez, mais 
 
 ![photo](visite_centre_science_photo/cartel.jpg)
 
+>Image prise par Hadi Ismail : Cartel electronique - explique par l'homme dans la vidéo
+
 ## Type d'installation 
 
 #### Installation interactive
 
 ![photo](visite_centre_science_photo/interaction_oeuvre.jpg)
+
+>Image prise par Hadi Ismail : Interaction de l'oeuvre
 
 Cette oeuvre est une installation interactive car elle ne peut pas fonctionner sans ton intervention directe. Le contenu à l'écran réagit en temps réel à tes mouvements physiques et à tes choix quand tu manipule l'unaaq qui sert de manette pour diriger le personnage et tester la solidité du sol.
 
@@ -104,7 +126,11 @@ L’espace occupé pour cette œuvre est assez grand. Il se compose de deux sect
 
 ![photo](visite_centre_science_photo/victoire.jpg)
 
+>Image prise par Hadi Ismail : Écran de victoire
+
 ![photo](visite_centre_science_photo/speakers.jpg)
+
+>Image prise par Hadi Ismail : Haut-parleurs
 
 ## Éléments nécessaires à la mise en exposition
 
@@ -116,9 +142,15 @@ L’espace occupé pour cette œuvre est assez grand. Il se compose de deux sect
 
 ![photo](visite_centre_science_photo/cle.jpg)
 
+>Image prise par Hadi Ismail : Clés d'activation des oeuvres
+
 ![photo](visite_centre_science_photo/outil_activation.jpg)
 
+>Image prise par Hadi Ismail : L'outil d'activation
+
 ![photo](visite_centre_science_photo/unaaq.jpg)
+
+>Image prise par Hadi Ismail : L'unaaq
 
 ## Expérience vécue
 
@@ -127,6 +159,8 @@ Comment je me suis senti : d’abord, cette expérience m’a rappelé des souve
 Maintenant, comment je me suis senti sur l’œuvre : c’était une expérience incroyable. Je passais surtout du temps à observer l’œuvre temporaire en me déplaçant entre les différentes sections, et je suis allé revoir certaines anciennes œuvres que j’avais déjà testées. Découvrir des anciens installations a aussi été une très bonne expérience, car sa m'a donner beaucoup de nostalgie.
 
 ![photo](visite_centre_science_photo/devant_oeuvre.jpg)
+
+>Image prise par Hadi Ismail : Ma présence devant l'oeuvre
 
 ## Ce qui m'a plu, m'a donné des idées
 
@@ -154,7 +188,11 @@ L’aspect que je ne retiendrai pas est le trajet pour me rendre à l’expositi
 
 ![photo](visite_centre_science_photo/responssable.jpg)
 
+>Image prise par Hadi Ismail : Responsable et Crédits
+
 ![photo](visite_centre_science_photo/robot.jpg)
+
+>Image prise par Hadi Ismail : Robot
 
 
 
