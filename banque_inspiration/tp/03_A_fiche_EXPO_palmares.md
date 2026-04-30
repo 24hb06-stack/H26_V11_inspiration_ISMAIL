@@ -1,6 +1,7 @@
 # Exposition Des Finnisants de Montmorency 2026
 
-## NOTE : Avant de commencer, je tiens à préciser que je respecte énormément tous les projets et leurs créateurs. Ce qu’ils ont accompli a demandé beaucoup d’efforts, de travail et de dévouement, et ils ont toute mon admiration pour cela. Mon ordre de préférence sera simplement basé sur l'intérêt que j'ai éprouvé à visionner chaque projet et sur mon envie d'interagir avec ceux-ci. Sans plus attendre, voici mon classement :
+## NOTE :
+Avant de commencer, je tiens à préciser que je respecte énormément tous les projets et leurs créateurs. Ce qu’ils ont accompli a demandé beaucoup d’efforts, de travail et de dévouement, et ils ont toute mon admiration pour cela. Mon ordre de préférence sera simplement basé sur l'intérêt que j'ai éprouvé à visionner chaque projet et sur mon envie d'interagir avec ceux-ci. Sans plus attendre, voici mon classement :
 
 ## 1.Terminal
 
@@ -13,7 +14,7 @@
 
 ### Installation en cours (ou finale)
 
-PUT PHOTO
+![photo](reseau_vivant_photos/instalation_terminal.jpg)
 
 ### Schéma de l'installation prévue
 
@@ -36,7 +37,7 @@ PUT PHOTO
 
 ### Installation en cours (ou finale)
 
-PUT PHOTO
+![photo](reseau_vivant_photos/instalation_mission.jpg)
 
 ### Schéma de l'installation prévue
 
@@ -58,7 +59,7 @@ PUT PHOTO
 
 ### Installation en cours (ou finale)
 
-PUT PHOTO
+![photo](reseau_vivant_photos/instalation_symbiose.jpg)
 
 ### Schéma de l'installation prévue
 
@@ -78,7 +79,7 @@ PUT PHOTO
 
 ### Installation en cours (ou finale)
 
-PUT PHOTO
+![photo](reseau_vivant_photos/instalation_ocean_rouge.jpg)
 
 ### Schéma de l'installation prévue
 
@@ -100,7 +101,7 @@ PUT PHOTO
 
 ### Installation en cours (ou finale)
 
-PUT PHOTO
+![photo](reseau_vivant_photos/instalation_arbre_en_face.jpg)
 
 ### Schéma de l'installation prévue
 
@@ -122,7 +123,7 @@ PUT PHOTO
 
 ### Installation en cours (ou finale)
 
-PUT PHOTO
+![photo](reseau_vivant_photos/instalation_quand_les_yeux_se_croisent.jpg)
 
 ### Schéma de l'installation prévue
 
@@ -131,10 +132,6 @@ PUT PHOTO
 #### Avant : Quand les yeux se croisent est le projet qui a le plus attiré mon attention en terme de c'est quoi ça. Il se passait énormément de choses et il y avait plein d'objets d'animaux éparpillés partout. C’était intriguant et bizarre, mais dans le bon sens du terme. Honnêtement, quand je l'ai vu pour la première fois, je ne savais pas trop quoi en penser ; je n'avais aucune idée de ce que c'était ou de comment ça fonctionnait.
 
 #### Après : Quand j'ai utilisé la machine et que je me suis placé dans le cercle de lumière, elle a capté mon regard. Je ne comprenais pas trop ce qui se passait, car les animaux changeaient tout le temps. J'ai dû poser des questions pour comprendre le concept et savoir comment mes actions influençaient la machine. Pour être honnête, c'est le projet qui m'a laissé le plus pconfus et je ne comprends toujours pas vraiment ce projet.
-
-
-
-
 
 ### Les 3 cours du programme qui me semblent incontournables :
 
