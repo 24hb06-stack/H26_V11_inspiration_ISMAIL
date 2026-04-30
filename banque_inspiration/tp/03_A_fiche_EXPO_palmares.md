@@ -160,9 +160,11 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ### Les 3 cours du programme qui me semblent incontournables :
 
-- Programmation
-- Audio
-- Design Graphique
+- Programmation Web ou Interactive
+- Audio ou Production vidéo
+- Animation 2D/3D
 
 ### Une technique ou une composante technologique inconnu à moi :
 
+- La composante technologique : Le langage de programmation Python
+Dans le projet Terminal, les créateurs ont utilisé le langage Python pour coder l'ensemble du jeu.
