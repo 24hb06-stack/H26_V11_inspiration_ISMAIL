@@ -10,11 +10,15 @@
 
 #### RÉSEAU VIVANT
 
+![photo](reseau_vivant_photos/vue_ensemble_finnisant.jpg)
+
 ## Lieu de mise en exposition
 
 Le collège Montmorency (Le grand studio) Local C-1712)
 
 ## Type d'exposition
+
+![photo](reseau_vivant_photos/vue_ensemble_oeuvre_finnisant.png)
 
 Ce type d'exposition se fait à l'intérieur et est temporaire.
 
@@ -28,6 +32,8 @@ Deuxième visite : 17 mars 2026 (projet terminé - Résultat Final)
 ### TERMINAL
 
 ![photo](reseau_vivant_photos/banniere_terminal.png)
+
+![photo](reseau_vivant_photos/croquis_terminal.png)
 
 ## Nom de l'artiste ou de la firme
 
