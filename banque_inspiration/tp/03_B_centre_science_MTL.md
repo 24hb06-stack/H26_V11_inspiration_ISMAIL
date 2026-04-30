@@ -2,9 +2,9 @@
 
 ## Nom de l'exposition
 
-## Lieu de mise en exposition
+#### 
 
-Le collège Montmorency (Le grand studio) Local C1712
+## Lieu de mise en exposition
 
 ## Type d'exposition
 
