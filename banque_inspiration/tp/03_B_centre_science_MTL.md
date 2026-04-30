@@ -46,6 +46,8 @@ La firme de cette exposition est le Centre des sciences de Montréal, en collabo
 
 L'exposition Nanualuk – Expédition nordique a été inaugurée au Centre des sciences de Montréal le 1er mars 2025.
 
+![photo](visite_centre_science_photo/croquis_centre_science.png)
+
 ## Description de l'oeuvre
 
 ![photo](visite_centre_science_photo/vue_ensemble_oeuvre.jpg)
@@ -100,6 +102,10 @@ L’espace occupé pour cette œuvre est assez grand. Il se compose de deux sect
 
 - Un ordinateur : caché dans la boîte en bois pour faire fonctionner le logiciel et gérer les interactions.
 
+![photo](visite_centre_science_photo/victoire.jpg)
+
+![photo](visite_centre_science_photo/speakers.jpg)
+
 ## Éléments nécessaires à la mise en exposition
 
 - Espace physique : Il faut prévoir une zone assez grande pour l'oeuvre
@@ -107,6 +113,12 @@ L’espace occupé pour cette œuvre est assez grand. Il se compose de deux sect
 - Un moniteur : Pour le tutoriel et un grand écran immersif pour l'affichage du jeu.
 
 - Système de contrôle : Une lance (contrôleur)
+
+![photo](visite_centre_science_photo/cle.jpg)
+
+![photo](visite_centre_science_photo/outil_activation.jpg)
+
+![photo](visite_centre_science_photo/unaaq.jpg)
 
 ## Expérience vécue
 
@@ -139,4 +151,10 @@ L’aspect que je ne retiendrai pas est le trajet pour me rendre à l’expositi
 ### L'entreprise responsable : Centre des sciences de Montréal - Vieux-Port de Montréal
 
 ### https://www.centredessciencesdemontreal.com/ (Voici le site web de Centre des sciences Montréal)
+
+![photo](visite_centre_science_photo/responssable.jpg)
+
+![photo](visite_centre_science_photo/robot.jpg)
+
+
 
