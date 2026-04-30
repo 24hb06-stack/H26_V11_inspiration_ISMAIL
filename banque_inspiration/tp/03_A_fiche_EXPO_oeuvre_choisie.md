@@ -2,19 +2,19 @@
 
 ![photo](reseau_vivant_photos/devant_entree_edifice_finissant.jpg)
 
->Image prise par Hadi Ismail : Moi devant l'entrée de l'édifice
+>Photo prise par Hadi Ismail : Moi devant l'entrée de l'édifice
 
 ## Nom de l'exposition
 
 ![photo](reseau_vivant_photos/affiche_exposition_finissant.jpg)
 
->Image prise par Hadi Ismail : Affiche pour l'exposition des finissants de TIM Montmorency
+>Photo prise par Hadi Ismail : Affiche pour l'exposition des finissants de TIM Montmorency
 
 #### RÉSEAU VIVANT
 
 ![photo](reseau_vivant_photos/vue_ensemble_finnisant.jpg)
 
->Image prise par Hadi Ismail : Vue ensemble du projet Terminal
+>Photo prise par Hadi Ismail : Vue ensemble du projet Terminal
 
 ## Lieu de mise en exposition
 
@@ -24,7 +24,7 @@ Le collège Montmorency (Le grand studio) Local C-1712)
 
 ![photo](reseau_vivant_photos/vue_ensemble_oeuvre_finnisant.jpg)
 
->Image prise par Hadi Ismail : Vue ensemble de l'oeuvre Terminal
+>Photo prise par Hadi Ismail : Vue ensemble de l'oeuvre Terminal
 
 Ce type d'exposition se fait à l'intérieur et est temporaire.
 
@@ -89,7 +89,7 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 
 ![photo](reseau_vivant_photos/cartel_terminal.jpg)
 
->Image prise par Hadi Ismail : Cartel de l'oeuvre Terminal
+>Photo prise par Hadi Ismail : Cartel de l'oeuvre Terminal
 
 ## Type d'installation 
 
@@ -98,11 +98,11 @@ Le type d’installation est interactive. Les spectateurs doivent se connecter a
 
 ![photo](reseau_vivant_photos/geste_de_moi.jpg)
 
->Image prise par Hadi Ismail : Interaction de moi et de l'oeuvre Terminal
+>Photo prise par Hadi Ismail : Interaction de moi et de l'oeuvre Terminal
 
 ![photo](reseau_vivant_photos/controles.jpg)
 
->Image prise par Hadi Ismail : Manette de l'oeuvre Terminal
+>Photo prise par Hadi Ismail : Manette de l'oeuvre Terminal
 
 ## Fonction du dispositif multimédia
 
@@ -132,15 +132,15 @@ Le projet Terminal utilise un projecteur, une salle sombre, un mur assez grand p
 
 ![photo](reseau_vivant_photos/personnage.jpg)
 
->Image prise par Hadi Ismail : Un des plusieurs avatars de l'oeuvre Terminal
+>Photo prise par Hadi Ismail : Un des plusieurs avatars de l'oeuvre Terminal
 
 ![photo](reseau_vivant_photos/ordinateur.jpg)
 
->Image prise par Hadi Ismail : Ordinateur
+>Photo prise par Hadi Ismail : Ordinateur
 
 ![photo](reseau_vivant_photos/projecteur_web.jpg)
 
->Image prise par Hadi Ismail : Projecteur
+>Photo prise par Hadi Ismail : Projecteur
 
 ## Éléments nécessaires à la mise en exposition
 
@@ -148,15 +148,15 @@ Pour la mise en exposition, il faut des chaises, dans ce cas des beanbags, un or
 
 ![photo](reseau_vivant_photos/Code_QR.jpg)
 
->Image prise par Hadi Ismail : Code QR pour jouer à Terminal
+>Photo prise par Hadi Ismail : Code QR pour jouer à Terminal
 
 ![photo](reseau_vivant_photos/lumiere.jpg)
 
->Image prise par Hadi Ismail : lumière
+>Photo prise par Hadi Ismail : lumière
 
 ![photo](reseau_vivant_photos/haut-parleurs_suspendus.jpg)
 
->Image prise par Hadi Ismail : Haut-Parleurs
+>Photo prise par Hadi Ismail : Haut-Parleurs
 
 ## Expérience vécue
 
