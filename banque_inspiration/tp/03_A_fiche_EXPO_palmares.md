@@ -1,6 +1,7 @@
 # Exposition Des Finnisants de Montmorency 2026
 
 ## NOTE :
+
 Avant de commencer, je tiens à préciser que je respecte énormément tous les projets et leurs créateurs. Ce qu’ils ont accompli a demandé beaucoup d’efforts, de travail et de persévérance, et ils ont toute mon admiration pour cela. Mon ordre de préférence sera simplement basé sur mes propres intérêts. Sans plus attendre, voici mon classement :
 
 ## 1.Terminal
@@ -14,7 +15,7 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ### Installation en cours (ou finale)
 
-![photo](reseau_vivant_palmares_photos/instalation_terminal.jpg)
+![photo](reseau_vivant_palmares_photo/instalation_terminal.jpg)
 
 ### Schéma de l'installation prévue
 
@@ -37,7 +38,7 @@ PUT PHOTO
 
 ### Installation en cours (ou finale)
 
-![photo](reseau_vivant_palmares_photos/instalation_mission.jpg)
+![photo](reseau_vivant_palmares_photo/instalation_mission.jpg)
 
 ### Schéma de l'installation prévue
 
@@ -59,7 +60,7 @@ PUT PHOTO
 
 ### Installation en cours (ou finale)
 
-![photo](reseau_vivant_palmares_photos/instalation_symbiose.jpg)
+![photo](reseau_vivant_palmares_photo/instalation_symbiose.jpg)
 
 ### Schéma de l'installation prévue
 
@@ -79,7 +80,7 @@ PUT PHOTO
 
 ### Installation en cours (ou finale)
 
-![photo](reseau_vivant_palmares_photos/instalation_ocean_rouge.jpg)
+![photo](reseau_vivant_palmares_photo/instalation_ocean_rouge.jpg)
 
 ### Schéma de l'installation prévue
 
@@ -101,7 +102,7 @@ PUT PHOTO
 
 ### Installation en cours (ou finale)
 
-![photo](reseau_vivant_palmares_photos/instalation_arbre_en_face.jpg)
+![photo](reseau_vivant_palmares_photo/instalation_arbre_en_face.jpg)
 
 ### Schéma de l'installation prévue
 
@@ -123,7 +124,7 @@ PUT PHOTO
 
 ### Installation en cours (ou finale)
 
-![photo](reseau_vivant_palmares_photos/instalation_quand_les_yeux_se_croisent.jpg)
+![photo](reseau_vivant_palmares_photo/instalation_quand_les_yeux_se_croisent.jpg)
 
 ### Schéma de l'installation prévue
 
