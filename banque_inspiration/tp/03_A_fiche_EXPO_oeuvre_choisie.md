@@ -2,6 +2,10 @@
 
 ## Nom de l'exposition
 
+![photo](reseau_vivant_photos/affiche_exposition_finissant.jpg)
+
+>Image prise par Hadi Ismail : Affiche pour l'exposition des finissants de TIM Montmorency
+
 #### RÉSEAU VIVANT
 
 ## Lieu de mise en exposition
@@ -21,10 +25,31 @@ Deuxième visite : 17 mars 2026 (projet terminé - Résultat Final)
 
 ### TERMINAL
 
+![photo](reseau_vivant_photos/banniere_terminal.png)
+
 ## Nom de l'artiste ou de la firme
 
 #### Le projet Terminal a été réalisé par cinq étudiants finissants du Collège Montmorency, du programme Techniques d’intégration multimédia, en 2026.
-##### Émeryk Bélisle - Elie Daher - Ting Yung Lu Terry - Dana Saavedra-Torrano - Mégane Ranger
+
+- Émeryk Bélisle
+
+![photo](reseau_vivant_photos/emeryk_belisle.webp)
+
+- Elie Daher
+
+![photo](reseau_vivant_photos/elie_daher.webp)
+
+- Ting Yung Lu Terry
+
+![photo](reseau_vivant_photos/tingyung_lu.webp)
+
+- Dana Saavedra-Torrano
+
+![photo](reseau_vivant_photos/dana_saavedra-torrano.webp)
+
+- Mégane Ranger
+
+![photo](reseau_vivant_photos/megane_ranger.webp)
 
 ## Année de réalisation
 
