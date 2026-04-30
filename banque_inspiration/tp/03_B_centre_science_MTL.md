@@ -6,7 +6,7 @@
 
 Expédition Nordique - Northern Expidition - (NANUALUK - ᓇᓄᐊᓗᒃ) 
 
-![photo](photos/Affiche_exposition_temporaire)
+![photo](visite_centre_science_photo/Affiche_exposition_temporaire)
 
 ## Lieu de mise en exposition
 
