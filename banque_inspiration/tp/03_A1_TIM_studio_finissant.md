@@ -84,3 +84,9 @@ Ce que je n’ai pas apprécié, cependant, c’est le concept du jeu. J’ai tr
 Si je devais l’améliorer, je modifierais la zone de fin pour en faire quelque chose de plus significatif, comme une base ou un point d’arrivée plus élaboré. J’ajouterais également des éléments comme des clés, des objectifs pour déverrouiller des portes ou encore des ennemis afin de rendre le jeu plus intéressant et engageant.
 
 ## Références
+
+##### Toutes les images ont été prises par le créateur de cette page (Hadi Ismail) ou proviennent du GitHub des créateurs de Terminal.
+
+##### Émeryk Bélisle - Elie Daher - Ting Yung Lu Terry - Dana Saavedra-Torrano - Mégane Ranger
+
+##### [https://pythons-5.github.io/Terminal/#/concept/](https://pythons-5.github.io/Terminal/#/)
