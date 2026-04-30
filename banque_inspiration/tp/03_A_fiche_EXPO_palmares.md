@@ -174,6 +174,6 @@ Dans le projet Terminal, les créateurs ont utilisé le langage C# et Unity pour
 
 #### Langages et environnements
 
-![photo](reseau_vivant_palmares_photo/coding.jpeg)
+![photo](reseau_vivant_palmares_photo/coding.jpg)
 
 >Image prise par Hadi Ismail : Photo de la technique ou composante
