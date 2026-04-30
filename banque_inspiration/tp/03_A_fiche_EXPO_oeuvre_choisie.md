@@ -2,6 +2,8 @@
 
 ![photo](reseau_vivant_photos/devant_entree_edifice_finissant.jpg)
 
+>Image prise par Hadi Ismail : Moi devant l'entrée de l'édifice
+
 ## Nom de l'exposition
 
 ![photo](reseau_vivant_photos/affiche_exposition_finissant.jpg)
@@ -12,13 +14,17 @@
 
 ![photo](reseau_vivant_photos/vue_ensemble_finnisant.jpg)
 
+>Image prise par Hadi Ismail : Vue ensemble du projet Terminal
+
 ## Lieu de mise en exposition
 
 Le collège Montmorency (Le grand studio) Local C-1712)
 
 ## Type d'exposition
 
-![photo](reseau_vivant_photos/vue_ensemble_oeuvre_finnisant.png)
+![photo](reseau_vivant_photos/vue_ensemble_oeuvre_finnisant.jpg)
+
+>Image prise par Hadi Ismail : Vue ensemble de l'oeuvre Terminal
 
 Ce type d'exposition se fait à l'intérieur et est temporaire.
 
@@ -33,7 +39,11 @@ Deuxième visite : 17 mars 2026 (projet terminé - Résultat Final)
 
 ![photo](reseau_vivant_photos/banniere_terminal.png)
 
+>Image prise du Github de la projet Terminal : Bannière de la projet Terminal
+
 ![photo](reseau_vivant_photos/croquis_terminal.png)
+
+>Image dessinée par Hadi Ismail : Croquis de la pièce Terminal
 
 ## Nom de l'artiste ou de la firme
 
@@ -43,21 +53,31 @@ Deuxième visite : 17 mars 2026 (projet terminé - Résultat Final)
 
 ![photo](reseau_vivant_photos/emeryk_belisle.webp)
 
+>Image prise du Github de la projet Terminal : Portrait d' Emeryk Belisle
+
 - Elie Daher
 
 ![photo](reseau_vivant_photos/elie_daher.webp)
+
+>Image prise du Github de la projet Terminal : Portrait de Elie Daher
 
 - Ting Yung Lu Terry
 
 ![photo](reseau_vivant_photos/tingyung_lu.webp)
 
+>Image prise pdu Github de la projet Terminal : Portrait de Tingyung Lu
+
 - Dana Saavedra-Torrano
 
 ![photo](reseau_vivant_photos/dana_saavedra-torrano.webp)
 
+>Image prise du Github de la projet Terminal : Portrait de Dana Saavedra-Torrano
+
 - Mégane Ranger
 
 ![photo](reseau_vivant_photos/megane_ranger.webp)
+
+>Image prise du Github de la projet Terminal : Portrait de Megane Ranger
 
 ## Année de réalisation
 
@@ -69,6 +89,8 @@ TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque
 
 ![photo](reseau_vivant_photos/cartel_terminal.jpg)
 
+>Image prise par Hadi Ismail : Cartel de l'oeuvre Terminal
+
 ## Type d'installation 
 
 #### Installation interactive
@@ -76,7 +98,11 @@ Le type d’installation est interactive. Les spectateurs doivent se connecter a
 
 ![photo](reseau_vivant_photos/geste_de_moi.jpg)
 
+>Image prise par Hadi Ismail : Interaction de moi et de l'oeuvre Terminal
+
 ![photo](reseau_vivant_photoscontroles.jpg)
+
+>Image prise par Hadi Ismail : Manette de l'oeuvre Terminal
 
 ## Fonction du dispositif multimédia
 
@@ -106,9 +132,15 @@ Le projet Terminal utilise un projecteur, une salle sombre, un mur assez grand p
 
 ![photo](reseau_vivant_photos/personnage.jpg)
 
+>Image prise par Hadi Ismail : Un des plusieurs avatars de l'oeuvre Terminal
+
 ![photo](reseau_vivant_photos/ordinateur.jpg)
 
+>Image prise par Hadi Ismail : Ordinateur
+
 ![photo](reseau_vivant_photos/projecteur_web.jpg)
+
+>Image prise par Hadi Ismail : Projecteur
 
 ## Éléments nécessaires à la mise en exposition
 
@@ -116,9 +148,15 @@ Pour la mise en exposition, il faut des chaises, dans ce cas des beanbags, un or
 
 ![photo](reseau_vivant_photos/Code_QR.jpg)
 
+>Image prise par Hadi Ismail : Code QR pour jouer à Terminal
+
 ![photo](reseau_vivant_photos/lumiere.jpg)
 
+>Image prise par Hadi Ismail : lumière
+
 ![photo](reseau_vivant_photos/haut-parleurs_suspendus.jpg)
+
+>Image prise par Hadi Ismail : Haut-Parleurs
 
 ## Expérience vécue
 
