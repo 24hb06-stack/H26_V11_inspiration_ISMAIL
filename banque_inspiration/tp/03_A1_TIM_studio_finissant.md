@@ -63,11 +63,11 @@ L’installation du projet « Terminal » est assez imposante. Elle occupe une a
 
 ## Composantes et techniques
 
-Le projet Terminal utilise un projecteur, une salle sombre, un mur assez grand pour projeter l’image/le jeu et des places pour s’asseoir.
+Le projet Terminal utilise un projecteur, une salle sombre, un mur assez grand pour projeter l’image/le jeu, un podium pour les instructions du jeux et des places pour s’asseoir.
 
 ## Éléments nécessaires à la mise en exposition
 
-Pour la mise en exposition, il faut des chaisses dans ce cas des beanbags, un ordinateur
+Pour la mise en exposition, il faut des chaises, dans ce cas des beanbags, un ordinateur, des LED, un code QR et le téléphone de l’audience afin d’interagir et jouer au jeu.
 
 ## Expérience vécue
 
