@@ -23,7 +23,7 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ![photo](reseau_vivant_palmares_photo/croquis_terminal.png)
 
->Photo prise par Hadi Ismail : Croquis du projet Terminal
+>Croquis pris du Github Terminal : Croquis du projet Terminal
 
 ### Comment j'ai ressenti par rapport au projet (avant/après)
 
@@ -50,7 +50,7 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ![photo](reseau_vivant_palmares_photo/croquis_mission.png)
 
->Image prise par Hadi Ismail : Croquis du projet Mission
+>Croquis pris du Github Mission : Croquis du projet Mission
 
 ### Comment j'ai ressenti par rapport au projet (avant/après)
 
@@ -76,7 +76,7 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ![photo](reseau_vivant_palmares_photo/croquis_symbiose.webp)
 
->Image prise par Hadi Ismail : Croquis du projet Symbiose
+>Croquis pris du Github Stmbiose : Croquis du projet Symbiose
 
 ### Comment j'ai ressenti par rapport au projet (avant/après)
 
@@ -100,7 +100,7 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ![photo](reseau_vivant_palmares_photo/croquis_ocean_rouge.png)
 
->Image prise par Hadi Ismail : Croquis du projet Océan Rouge
+>Croquis pris du Github Océan Rouge : Croquis du projet Océan Rouge
 
 #### Avant : Océan Rouge est le dernier projet que j'ai vu. Malheureusement, je n'ai pas pu y accorder beaucoup d'attention car il n'y avait personne pour faire la présentation quand je suis passé. C'est dommage, car si j'avais pu le voir en détail, je pense qu'il aurait été en haut de mon classement. Le projet m'a rappelé d'une jeu d'arcade et le jeu semblait très facile pour les débutants. C'est impressionnant de voir qu'ils n'étaient qu'une équipe de deux pour créer et organiser tout cela. Ça a dû demander énormément de travail et j'ai été vraiment impressionné.
 
@@ -126,7 +126,7 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ![photo](reseau_vivant_palmares_photo/croquis_arbre_en_face.jpg)
 
->Image prise par Hadi Ismail : Croquis du projet Arbre En Face
+>Croquis pris du Github Arbre En Face : Croquis du projet Arbre En Face
 
 #### Avant : Arbre en face est le premier projet que j'ai vu en entrant dans la salle. Au début, j'étais confus : je me demandais comment il fonctionnait, comment il tournait et comment on pouvait interagir avec lui. C'est en voyant les autres l'utiliser que j'ai commencé à comprendre. Ce n'est qu'après l'avoir testé moi-même que j'ai enfin compris tout son fonctionnement.
 
@@ -152,7 +152,7 @@ Avant de commencer, je tiens à préciser que je respecte énormément tous les 
 
 ![photo](reseau_vivant_palmares_photo/croquis_quand_les_yeux_se_trouve.jpeg)
 
->Image prise par Hadi Ismail : Croquis du projet Quand les yeux se croisent
+>Croquis pris du Github Quand les yeux se croisent : Croquis du projet Quand les yeux se croisent
 
 #### Avant : Quand les yeux se croisent est le projet qui a le plus attiré mon attention en terme de c'est quoi ça. Il se passait énormément de choses et il y avait plein d'objets d'animaux éparpillés partout. C’était intriguant et bizarre, mais dans le bon sens du terme. Honnêtement, quand je l'ai vu pour la première fois, je ne savais pas trop quoi en penser ; je n'avais aucune idée de ce que c'était ou de comment ça fonctionnait.
 
