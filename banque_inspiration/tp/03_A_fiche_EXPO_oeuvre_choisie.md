@@ -70,6 +70,8 @@ Le type d’installation est interactive. Les spectateurs doivent se connecter a
 
 ![photo](reseau_vivant_photos/geste_de_moi.jpg)
 
+![photo](reseau_vivant_photoscontroles.jpg)
+
 ## Fonction du dispositif multimédia
 
 #### Bien que ce soit un projet réalisé par des étudiants en Techniques d’intégration multimédia, le projet Terminal comporte plusieurs dispositifs multimédias.
@@ -96,7 +98,7 @@ L’installation du projet « Terminal » est assez imposante. Elle occupe une a
 
 Le projet Terminal utilise un projecteur, une salle sombre, un mur assez grand pour projeter l’image/le jeu, un podium pour les instructions du jeux et des places pour s’asseoir.
 
-![photo](reseau_vivant_photos/controles.jpg)
+![photo](reseau_vivant_photos/personnage.jpg)
 
 ![photo](reseau_vivant_photos/ordinateur.jpg)
 
@@ -107,8 +109,6 @@ Le projet Terminal utilise un projecteur, une salle sombre, un mur assez grand p
 Pour la mise en exposition, il faut des chaises, dans ce cas des beanbags, un ordinateur, des LED, un code QR et le téléphone de l’audience afin d’interagir et jouer au jeu.
 
 ![photo](reseau_vivant_photos/Code_QR.jpg)
-
-![photo](reseau_vivant_photos/geste_de_moi.jpg)
 
 ![photo](reseau_vivant_photos/lumiere.jpg)
 
