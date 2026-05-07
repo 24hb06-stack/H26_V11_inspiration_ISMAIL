@@ -56,6 +56,6 @@
 
 ## 3. Conclusion
 
-* **Rappel :**
+* **Rappel**
 
-* **Ouverture :**
+* **Ouverture**
