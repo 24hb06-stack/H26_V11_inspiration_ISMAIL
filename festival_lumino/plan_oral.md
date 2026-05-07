@@ -1,78 +1,100 @@
 # Festival Lumino ❄️
 
 ![photo](photos/lumino_logo_ma_visite.jpg)
+
 > Image prise par Hadi Ismail : Logo de Lumino
 
 ## Informations générales
 
 **Nom de l'exposition :** Festival d'hiver Lumino (16e édition)
+
 ![photo](photos/affiche_exposition_festival_lumino.jpg)
+
 > Image prise par Hadi Ismail : Affiche du festival
 
-**Lieu :** Esplanade Tranquille, Quartier des spectacles, Montréal.
+**Lieu de mise en exposition :** Esplanade Tranquille, Quartier des spectacles, Montréal.
+
 ![photo](photos/devant_entree_edifice_festival_lumino.jpg)
+
 > Image prise par Hadi Ismail : Moi devant l'entrée du festival d'hiver
 
-**Type d'exposition :** Installation interactive temporaire en plein air. Bien que la patinoire soit permanente, les œuvres et projections changent annuellement.
+**Type d'exposition :** Pour le type d'exposition, c'est un peu compliqué.
+Cette exposition a toujours lieu à l'extérieur, mais, bien que la patinoire elle-même soit une installation permanente de l'Esplanade, les œuvres interactives et les projections vidéo qui l'animent changent chaque année.
 
 **Date de visite :** 5 mars 2026
 
 ---
 
-## 🎨 L'œuvre : Le coffre à jouets dégivré
+## 🎨 Titre de l'oeuvre ou du dispositif : Le coffre à jouets dégivré
 
-**Artistes/Studios :** Collaboration entre **Ottomata** et **Doki** (Montréal).
-**Année de réalisation :** Novembre 2024.
+**Nom de l'artiste ou de la firme :** Collaboration entre **Ottomata** et **Doki** deux studios montréalais spécialisés en design d'expérience numérique et en création interactive.
+
+**Année de réalisation :** Projet complété en fin novembre 2024.
+
+**Type d'installation :** L'installation « Le coffre à jouets dégivré » est une expérience interactive à grande échelle.
 
 ![photo](photos/vue_ensemble_oeuvre_coffre_jouet_degivre.jpg)
+
 > Image prise par Hadi Ismail : Vue d'ensemble de l'œuvre Le coffre à jouets dégivré
 
 ### Description de l'œuvre
-> "PATINEZ, JOUEZ, DÉCLENCHEZ ! Attachez vos patins et sautez sur une surface glacée qui se transforme en portail vers vos jeux d'enfance. Faites l'expérience interactive de trois mondes uniques : l'Autoroute Zéro-Gravité, le Monde Néon et Le sol est en lave !"
-> — *Source : Cartel de l'œuvre*
+
+> "PATINEZ, JOUEZ, DÉCLENCHEZ Attachez vos patins et sautez sur une surface glacée qui se transforme en portail vers vos jeux d'enfance. Faites l'expérience interactive de trois mondes suniques: l'Autoroute Zéro-Gravité, une piste flottante aux éléments planants, le Monde Néon, dont les formes et couleurs évoquent l'esthétique des machines à boules et Le sol est en lave!, un univers volcanique et tropical. Chacun de ces tableaux, d'une durée de trente minutes, vous réserve des surprises. Selon vos déplacements sur la glace, vous pourriez même provoquer un dénouement inattendu!"
+
+— *Source : Cartel de l'œuvre*
 
 ![photo](photos/cartel_festival_lumino.jpg)
+
 > Image prise par Hadi Ismail : Cartel de Le coffre à jouets dégivré
 
 ---
 
 ## Dispositif technique et Mise en espace
 
-### Fonctions multimédias
+### Fonctions du dispositif multimédia
 *   **Scénographie interactive**
 *   **Mise en valeur de l'espace public**
-*   **Diffusion du patrimoine immatériel (jeux d'enfance)**
+*   **Diffusion du patrimoine immatériel**
 
 ### Mise en espace (1 500 m²)
-L'installation couvre toute la patinoire. Elle inclut des bancs centraux et des structures (poteaux) pour le matériel de projection et de captation.
+
+L’installation est massive et couvre toute la surface de la patinoire de l’Esplanade Tranquille, soit environ 1 500 m². À l’extérieur de l’arène, on trouve des bancs et des feux de camp autour de la patinoire. À l’intérieur, il y a aussi des bancs au centre ainsi que quatre à huit poteaux de projection de lumière.
 
 ![photo](photos/croquis_coffre_jouet_degivre_lumino.png)
+
 > Image dessinée par Hadi Ismail : Croquis de Le coffre à jouets dégivré
 
 ![photo](photos/vues_ensemble_oeuvre.jpg)
+
 > Image prise par Hadi Ismail : Vue d'ensemble de l'installation sur la patinoire
 
 ### Composantes technologiques
-*   **Captation :** Caméras et systèmes de détection de mouvement (Computer Vision) pour suivre les patineurs en temps réel.
-*   **Projection :** Vidéoprojecteurs laser haute puissance installés sur des structures autoportantes.
+*   **Captation :** Caméras et systèmes de détection de mouvement pour suivre les patineurs en temps réel.
+*   **Projection :** Vidéoprojecteurs laser haute puissance installés sur les poteaux.
 *   **Éclairage :** Systèmes de lumières dynamiques synchronisés avec les projections.
 
 ![photo](photos/videoprojection.jpg)
+
 > Image prise par Hadi Ismail : Appareil vidéoprojecteur laser
 
 ![photo](photos/lumiere_camera_colorer.jpg)
+
 > Image prise par Hadi Ismail : Caméra et systèmes de lumières
 
-### Éléments de la mise en exposition
-L'aménagement inclut la patinoire, des bancs pour le public et des zones de repos avec des foyers.
+### Éléments nécessaires à la mise en exposition
+
+Pour exposer l’oeuvre, il faut une patinoire extérieure de 1 500 m², des cameras, des lumières, des capteurs de mouvement, des vidéoprojecteurs laser installés sur des poteaux, et un aménagement incluant des bancs et des foyers pour accueillir le public dans un environnement hivernal et finalement des chaises et des feux de camp.
 
 ![photo](photos/patinoire_rambarde.jpg)
+
 > Image prise par Hadi Ismail : La patinoire et la rambarde
 
 ![photo](photos/banc_interieure_patinoire.jpg)
+
 > Image prise par Hadi Ismail : Les bancs à l'intérieur de la patinoire
 
 ![photo](photos/chaise_feux_camp_exterieure.jpg)
+
 > Image prise par Hadi Ismail : Les chaises et les feux de camp à l'extérieur
 
 ---
@@ -80,26 +102,35 @@ L'aménagement inclut la patinoire, des bancs pour le public et des zones de rep
 ## Expérience et Analyse critique
 
 ### Expérience vécue
-Malgré le froid intense et la fatigue liée au jeûne du Ramadan, l'expérience a été énergisante. Accompagné d'un ami, j'ai été impressionné par l'immensité de l'événement et l'accessibilité gratuite pour le public. L'ambiance était excitante et immersive.
 
-### Ce qui m'a inspiré
-La présence de mon ami a rendu le moment mémorable, mais techniquement, c'est l'atmosphère rafraîchissante et l'emplacement incroyable qui m'ont marqué. Sortir explorer ces installations est beaucoup plus inspirant que de rester devant un écran d'ordinateur.
+Malgré le froid intense et la fatigue liée au jeûne du Ramadan, l'expérience sur la patinoire a été marquante et énergisante. Accompagné de mon ami qui est venu m'aider pour ce projet, nous avons exploré l'ensemble du festival pour découvrir les différentes installations. C'était impressionnant de voir que l'événement était gratuit et immense. Je dirais que l'experice était bien excitent.
 
-### Ce que je ferais autrement (Analyse critique)
-*   **Gestion thermique :** Le manque de zones chauffées rendait l'attente difficile par grand froid. J'ajouterais des zones de confort (chaufferettes) mieux intégrées.
-*   **Accessibilité temporelle :** L'œuvre dépend fortement de la noirceur et d'horaires stricts. Je chercherais des solutions pour rendre l'installation plus visible ou interactive même en période de transition lumineuse.
+## Ce qui m'a plu, m'a donné des idées
+
+Ce qui m'a le plus plu, c'est d'avoir mon ami à mes côtés, je ne serais pas venu seul, donc sa présence était vraiment le meilleur moment. Même si l'endroit était un peu loin, la vue et l'emplacement étaient incroyables. L'atmosphère était rafraîchissante. Ça m'a fait beaucoup de bien de sortir explorer au lieu de rester assis à la maison devant l'ordinateur. C'était une expérience vraiment positive et inspirante.
+
+## Aspect que je ne souhaite pas de retenir pour vos propres créations ou que je feré autrement
+
+Pour mes propres créations, je ferais autrement pour la gestion du froid et de la visibilité. Il n’y avait presque pas de chaufferettes, ce qui rendait l’attente difficile quand il faisait très froid. De plus, il fallait être là à une heure précise pour bien voir les lumières, ce qui était difficile pour les visiteurs. Dans mon projet, je prévoirais plus de zones confortables pour le public et je rendrais l’œuvre visible à n’importe quel moment, sans dépendre d’un horaire trop strict.
 
 ---
 
 ## Références
+
 *   **Titre :** Le coffre à jouets dégivré
+
 *   **Créateurs :** Studios Ottomata et Doki
+
 *   **Production :** Partenariat du Quartier des spectacles
+
 *   **Crédits photo :** Toutes les images et dessins ont été réalisés par **Hadi Ismail**.
+
 *   **Écriture et mise en forme de base :** https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ![photo](photos/interaction_exploration_festival_lumino.jpg)
+
 > Image prise par Hadi Ismail : Exploration du festival d'hiver par Lumino
 
 ![photo](photos/capture_festival_lumino.jpg)
+
 > Image prise par Hadi Ismail : Le parc d'attractions aménagé par Lumino
