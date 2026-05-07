@@ -22,7 +22,7 @@
 
 ### Présentation du lieu visité
 
-* **Rôle :** L'Esplanade Tranquille est un espace public multifonctionnel avec une patinoire réfrigérée permanente, mais (saisonnier) de 1 500 m².
+* **Rôle :** L'Esplanade Tranquille est un espace public multifonctionnel avec une patinoire réfrigérée saisonnière de 1 500 m².
 
 * **Contenu :** Le lieu diffuse des expériences culturelles et technologiques pour animer le centre-ville en hiver.
 
@@ -32,15 +32,15 @@
 
 * **Concept :** Un portail vers trois mondes d'enfance (Autoroute Zéro-Gravité, Monde Néon, Le sol est en lave).
 
-* **Composantes :** Utilisation de caméras de captation, de systèmes de vision numérique et de vidéoprojecteurs laser montés sur des potos.
+* **Composantes :** Utilisation de caméras de captation, de systèmes de vision numérique et de vidéoprojecteurs laser montés sur des poteaux.
 
 ### Expérience vécue
 
 * **Contexte :** Visite le 5 mars en soirée. Froid intense et fatigue due au jeûne du Ramadan.
 
-* **Parcours :** Exploration libre sur la glace avec un ami et de toute la festival.
+* **Parcours :** Exploration libre sur la glace et de tout le festival.
 
-* **Durée :** 15:00 à 18:00 (sans compter le temps de trajet jusqu'à l'arrivée)
+* **Durée :** 15:00 à 18:00 (sans compter le temps de trajet pour venir et partir)
 
 ### Appréciation critique et justifications
 
@@ -61,8 +61,8 @@ Là-bas, on voyait le processus technique derrière les jeux, et ici au Festival
 
 * **Rappel :**
 
-En gros, c'était une installation géante qui transforme une patinoire en projection interactiv (spectacle/jeu vidéo collectif). C'est impressionnant techniquement et très immersif.
+En gros, c'était une installation géante qui transforme une patinoire en projection interactive (spectacle/jeu vidéo collectif). C'est impressionnant techniquement et très immersif.
 
 * **Ouverture**
 
-Ce que je retiens pour mes futurs projets en TIM, c'est que l'on n'a pas toujours besoin d'un écran ou d'une souris pour interagir. Dans la programme Techniques d'intégration multimédia, il est crucial de se rappeler de son public. Pour un projet comme celui-ci, l'interaction est la clé : il faut que l'audience participe pour que la création prenne vie, sinon ce n'est qu'un simple spectacle passif. Sans interaction avec les gens, il ne reste plus rien à montrer à la fin.
+Ce que je retiens pour mes futurs projets en TIM, c'est que l'on n'a pas toujours besoin d'un écran ou d'une souris pour interagir. Dans le programme Techniques d'intégration multimédia, il est crucial de se rappeler de son public. Pour un projet comme celui-ci, l'interaction est la clé : il faut que l'audience participe pour que la création prenne vie, sinon ce n'est qu'un simple spectacle passif. Sans interaction avec les gens, il ne reste plus rien à montrer à la fin.
