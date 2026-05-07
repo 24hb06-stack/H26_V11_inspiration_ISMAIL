@@ -11,7 +11,7 @@
 
 **Lieu :** Esplanade Tranquille, Quartier des spectacles, Montréal.
 ![photo](photos/devant_entree_edifice_festival_lumino.jpg)
-> Image prise par Hadi Ismail : Entrée du festival
+> Image prise par Hadi Ismail : Moi devant l'entrée du festival d'hiver
 
 **Type d'exposition :** Installation interactive temporaire en plein air. Bien que la patinoire soit permanente, les œuvres et projections changent annuellement.
 
@@ -25,14 +25,14 @@
 **Année de réalisation :** Novembre 2024.
 
 ![photo](photos/vue_ensemble_oeuvre_coffre_jouet_degivre.jpg)
-> Image prise par Hadi Ismail : Vue d'ensemble de l'œuvre
+> Image prise par Hadi Ismail : Vue d'ensemble de l'œuvre Le coffre à jouets dégivré
 
 ### Description de l'œuvre
 > "PATINEZ, JOUEZ, DÉCLENCHEZ ! Attachez vos patins et sautez sur une surface glacée qui se transforme en portail vers vos jeux d'enfance. Faites l'expérience interactive de trois mondes uniques : l'Autoroute Zéro-Gravité, le Monde Néon et Le sol est en lave !"
 > — *Source : Cartel de l'œuvre*
 
 ![photo](photos/cartel_festival_lumino.jpg)
-> Image prise par Hadi Ismail : Cartel explicatif
+> Image prise par Hadi Ismail : Cartel de Le coffre à jouets dégivré
 
 ---
 
@@ -47,7 +47,10 @@
 L'installation couvre toute la patinoire. Elle inclut des bancs centraux et des structures (poteaux) pour le matériel de projection et de captation.
 
 ![photo](photos/croquis_coffre_jouet_degivre_lumino.png)
-> Image dessinée par Hadi Ismail : Croquis de l'aménagement spatial
+> Image prise par Hadi Ismail : Croquis de Le coffre à jouets dégivré (dessiné par moi)
+
+![photo](photos/vues_ensemble_oeuvre.jpg)
+> Image prise par Hadi Ismail : Vue d'ensemble de l'installation sur la patinoire
 
 ### Composantes technologiques
 *   **Captation :** Caméras et systèmes de détection de mouvement (Computer Vision) pour suivre les patineurs en temps réel.
@@ -55,8 +58,22 @@ L'installation couvre toute la patinoire. Elle inclut des bancs centraux et des 
 *   **Éclairage :** Systèmes de lumières dynamiques synchronisés avec les projections.
 
 ![photo](photos/videoprojection.jpg)
-![photo](photos/lumiere_camera_colorer.jpg) 
-> Images prises par Hadi Ismail : Détails des projecteurs, caméras et lumières
+> Image prise par Hadi Ismail : Appareil vidéoprojecteur laser
+
+![photo](photos/lumiere_camera_colorer.jpg)
+> Image prise par Hadi Ismail : Caméra et systèmes de lumières
+
+### Éléments de la mise en exposition
+L'aménagement inclut la patinoire, des bancs pour le public et des zones de repos avec des foyers.
+
+![photo](photos/patinoire_rambarde.jpg)
+> Image prise par Hadi Ismail : La patinoire et la rambarde
+
+![photo](photos/banc_interieure_patinoire.jpg)
+> Image prise par Hadi Ismail : Les bancs à l'intérieur de la patinoire
+
+![photo](photos/chaise_feux_camp_exterieure.jpg)
+> Image prise par Hadi Ismail : Les chaises et les feux de camp à l'extérieur
 
 ---
 
@@ -79,8 +96,9 @@ La présence de mon ami a rendu le moment mémorable, mais techniquement, c'est 
 *   **Créateurs :** Studios Ottomata et Doki
 *   **Production :** Partenariat du Quartier des spectacles
 *   **Crédits photo :** Toutes les images et dessins ont été réalisés par **Hadi Ismail**.
-*   **Écriture et mise en forme de base :** https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ![photo](photos/interaction_exploration_festival_lumino.jpg)
+> Image prise par Hadi Ismail : Exploration du festival d'hiver par Lumino
+
 ![photo](photos/capture_festival_lumino.jpg)
-> Images prises par Hadi Ismail : Exploration et ambiance finale
+> Image prise par Hadi Ismail : Le parc d'attractions aménagé par Lumino
