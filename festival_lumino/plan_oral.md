@@ -52,10 +52,17 @@
 
 ### Liens avec la session
 
-* **Comparaison :** Ressemblance avec les principes d'intégration présentés par Martin Boucher (gestion du matériel en milieu extérieur, protection contre les intempéries), comment rendre une expérience vraiment positive et inspirante..
+* **Comparaison**
+
+Même principe de vidéoprojection interactive appliquée au jeu.
+Là-bas, on voyait le processus technique derrière les jeux, et ici au Festival Lumino, on voit ce même processus appliqué à une échelle massive (1 500 m²).
 
 ## 3. Conclusion
 
-* **Rappel**
+* **Rappel :**
+
+En gros, c'était une installation géante qui transforme une patinoire en projection interactiv (spectacle/jeu vidéo collectif). C'est impressionnant techniquement et très immersif.
 
 * **Ouverture**
+
+Ce que je retiens pour mes futurs projets en TIM, c'est que l'on n'a pas toujours besoin d'un écran ou d'une souris pour interagir. Dans la programme Techniques d'intégration multimédia, il est crucial de se rappeler de son public. Pour un projet comme celui-ci, l'interaction est la clé : il faut que l'audience participe pour que la création prenne vie, sinon ce n'est qu'un simple spectacle passif. Sans interaction avec les gens, il ne reste plus rien à montrer à la fin.
