@@ -22,11 +22,12 @@
 
 ### Présentation du lieu visité
 
-* **Rôle :** L'Esplanade Tranquille est un espace public multifonctionnel avec une patinoire réfrigérée permanente de 1 500 m².
+* **Rôle :** L'Esplanade Tranquille est un espace public multifonctionnel avec une patinoire réfrigérée permanente, mais (saisonnier) de 1 500 m².
 
 * **Contenu :** Le lieu diffuse des expériences culturelles et technologiques pour animer le centre-ville en hiver.
 
 ### Présentation détaillée de l'œuvre
+
 * **Localisation :** Installation massive qui occupe une patinoire de 1500 m², une petite cabane pour emprunter des patins et se réchauffer un peu, ainsi qu’un espace extérieur avec des chaises, un feu de camp et des bancs.
 
 * **Concept :** Un portail vers trois mondes d'enfance (Autoroute Zéro-Gravité, Monde Néon, Le sol est en lave).
