@@ -47,7 +47,7 @@
 L'installation couvre toute la patinoire. Elle inclut des bancs centraux et des structures (poteaux) pour le matériel de projection et de captation.
 
 ![photo](photos/croquis_coffre_jouet_degivre_lumino.png)
-> Image prise par Hadi Ismail : Croquis de Le coffre à jouets dégivré (dessiné par moi)
+> Image dessinée par Hadi Ismail : Croquis de Le coffre à jouets dégivré
 
 ![photo](photos/vues_ensemble_oeuvre.jpg)
 > Image prise par Hadi Ismail : Vue d'ensemble de l'installation sur la patinoire
