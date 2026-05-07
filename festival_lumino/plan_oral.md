@@ -48,11 +48,11 @@
 
 * **Points à améliorer :** Manque de zones de chaleur (confort thermique) et dépendance totale à l'obscurité pour la visibilité des projections.
 
-* **IDÉES à retenir :** L'utilisation du corps comme interface (UI invisible).
+* **IDÉES à retenir :** L'utilisation du corps comme interface (caméras de captation), rendre le public plus confortable lorsqu’il profite de mon œuvre.
 
 ### Liens avec la session
 
-* **Comparaison :** Ressemblance avec les principes d'intégration présentés par Martin Boucher (gestion du matériel en milieu extérieur, protection contre les intempéries).
+* **Comparaison :** Ressemblance avec les principes d'intégration présentés par Martin Boucher (gestion du matériel en milieu extérieur, protection contre les intempéries), comment rendre une expérience vraiment positive et inspirante..
 
 ## 3. Conclusion
 
