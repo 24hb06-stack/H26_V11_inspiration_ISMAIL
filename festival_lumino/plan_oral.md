@@ -56,7 +56,7 @@ Cette exposition a toujours lieu à l'extérieur, mais, bien que la patinoire el
 *   **Mise en valeur de l'espace public**
 *   **Diffusion du patrimoine immatériel**
 
-### Mise en espace (1 500 m²)
+### Mise en espace
 
 L’installation est massive et couvre toute la surface de la patinoire de l’Esplanade Tranquille, soit environ 1 500 m². À l’extérieur de l’arène, on trouve des bancs et des feux de camp autour de la patinoire. À l’intérieur, il y a aussi des bancs au centre ainsi que quatre à huit poteaux de projection de lumière.
 
