@@ -31,17 +31,18 @@
 
 * **Concept :** Un portail vers trois mondes d'enfance (Autoroute Zéro-Gravité, Monde Néon, Le sol est en lave).
 
-* **Composantes :** Utilisation de caméras de captation, de systèmes de vision numérique et de vidéoprojecteurs laser montés sur des structures autoportantes.
+* **Composantes :** Utilisation de caméras de captation, de systèmes de vision numérique et de vidéoprojecteurs laser montés sur des potos.
 
 ### Expérience vécue
 
 * **Contexte :** Visite le 5 mars en soirée. Froid intense et fatigue due au jeûne du Ramadan.
 
-* **Parcours :** Exploration libre sur la glace avec un ami.
+* **Parcours :** Exploration libre sur la glace avec un ami et de toute la festival.
 
-* **Interactions :** Gestes de patinage déclenchant des effets visuels et sonores en temps réel.
+* **Durée :** 15:00 à 18:00 (sans compter le temps de trajet jusqu'à l'arrivée)
 
 ### Appréciation critique et justifications
+
 * **Points positifs :** L'ambiance énergisante, l'immensité de l'installation et l'aspect social (collaboration avec mon ami).
 
 * **Points à améliorer :** Manque de zones de chaleur (confort thermique) et dépendance totale à l'obscurité pour la visibilité des projections.
@@ -54,6 +55,6 @@
 
 ## 3. Conclusion
 
-* **Rappel :** Synthèse d'une installation qui réussit à transformer un espace public en terrain de jeu technologique.
+* **Rappel :**
 
-* **Ouverture :** Intérêt pour l'intégration de capteurs de mouvement dans mes futurs projets de design interactif au Collège Montmorency pour réduire la pollution visuelle des interfaces classiques.
+* **Ouverture :**
