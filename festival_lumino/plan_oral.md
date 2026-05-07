@@ -55,8 +55,7 @@ L'installation couvre toute la patinoire. Elle inclut des bancs centraux et des 
 *   **Éclairage :** Systèmes de lumières dynamiques synchronisés avec les projections.
 
 ![photo](photos/videoprojection.jpg)
-| ![photo](photos/lumiere_camera_colorer.jpg) |
-| :---: |
+![photo](photos/lumiere_camera_colorer.jpg) 
 > Images prises par Hadi Ismail : Détails des projecteurs, caméras et lumières
 
 ---
