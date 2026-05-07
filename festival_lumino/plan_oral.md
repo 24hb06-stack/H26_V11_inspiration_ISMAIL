@@ -96,6 +96,7 @@ La présence de mon ami a rendu le moment mémorable, mais techniquement, c'est 
 *   **Créateurs :** Studios Ottomata et Doki
 *   **Production :** Partenariat du Quartier des spectacles
 *   **Crédits photo :** Toutes les images et dessins ont été réalisés par **Hadi Ismail**.
+*   **Écriture et mise en forme de base :** https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ![photo](photos/interaction_exploration_festival_lumino.jpg)
 > Image prise par Hadi Ismail : Exploration du festival d'hiver par Lumino
